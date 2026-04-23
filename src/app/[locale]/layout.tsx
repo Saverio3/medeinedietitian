@@ -66,7 +66,7 @@ export default async function LocaleLayout({ children, params }: Props) {
 
   return (
     <NextIntlClientProvider locale={locale} messages={messages}>
-      <StructuredData locale={locale as Locale} />
+      {/* <StructuredData locale={locale as Locale} /> */}
       <div className="relative flex min-h-screen flex-col">
         <Header locale={locale as Locale} />
         <main className="flex-1">{children}</main>
