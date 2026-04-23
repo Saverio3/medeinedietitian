@@ -67,15 +67,15 @@ export default function Header({ locale }: { locale: Locale }) {
             {/* Logo */}
             <Link
               href="/"
-              className="group flex items-center gap-3 transition-opacity hover:opacity-80"
+              className="group flex items-center gap-2 transition-opacity hover:opacity-80 sm:gap-3"
               aria-label={siteConfig.name}
             >
-              <Logo className="h-10 w-10 lg:h-12 lg:w-12" />
-              <div className="hidden sm:block">
-                <div className="font-serif text-lg leading-none tracking-tight lg:text-xl">
+              <Logo className="h-10 w-10 flex-shrink-0 lg:h-12 lg:w-12" />
+              <div className="min-w-0">
+                <div className="truncate font-serif text-sm leading-none tracking-tight sm:text-lg lg:text-xl">
                   {siteConfig.name}
                 </div>
-                <div className="eyebrow mt-1 text-[10px] lg:text-[11px]">
+                <div className="eyebrow mt-1 hidden text-[10px] sm:block lg:text-[11px]">
                   {siteConfig.title}
                 </div>
               </div>
