@@ -4,12 +4,14 @@ import { useState, useRef, useEffect } from 'react';
 import { useRouter, usePathname } from '@/i18n/navigation';
 import { Globe, Check } from 'lucide-react';
 import { locales, localeNames, type Locale } from '@/i18n/config';
+import { useParams } from 'next/navigation';
 
 export default function LanguageSwitcher({ currentLocale }: { currentLocale: Locale }) {
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
   const router = useRouter();
   const pathname = usePathname();
+  const params = useParams();
 
   useEffect(() => {
     function onClickOutside(e: MouseEvent) {
@@ -23,7 +25,7 @@ export default function LanguageSwitcher({ currentLocale }: { currentLocale: Loc
 
   const switchTo = (locale: Locale) => {
     setOpen(false);
-    router.replace(pathname, { locale });
+    router.replace({ pathname, params }, { locale });
   };
 
   return (
