@@ -117,6 +117,13 @@
         }
       ]
     },
+    "freeTool": {
+      "eyebrow": "Free tool",
+      "title": "Is this food safe in pregnancy?",
+      "body": "An evidence-based guide to 100+ common foods in pregnancy — from sushi to soft cheese to herbal teas. Based on NHS guidance, authored by a registered dietitian. Free to use, no sign-up needed.",
+      "cta": "Check the food guide",
+      "meta": "Available in English and Lithuanian"
+    },
     "languages": {
       "eyebrow": "Without translation, without compromise",
       "title": "Consultations in the language you think in.",
