@@ -335,11 +335,6 @@ export default async function HomePage({ params }: Props) {
               <span className="h-2 w-2 rounded-full bg-sage-500" />
               <span className="font-serif text-sm">Lietuvių</span>
             </div>
-            <span className="h-4 w-px bg-charcoal-700/15" />
-            <div className="flex items-center gap-2">
-              <span className="h-2 w-2 rounded-full bg-charcoal-200" />
-              <span className="font-serif text-sm text-charcoal-400">Русский*</span>
-            </div>
           </div>
         </div>
       </section>
