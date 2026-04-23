@@ -1,15 +1,8 @@
-import { setRequestLocale, getTranslations } from 'next-intl/server';
+import { getTranslations } from 'next-intl/server';
 import { Link } from '@/i18n/navigation';
 import { ArrowLeft } from 'lucide-react';
-import type { Locale } from '@/i18n/config';
 
-type Props = {
-  params: Promise<{ locale: Locale }>;
-};
-
-export default async function NotFound({ params }: Props) {
-  const { locale } = await params;
-  setRequestLocale(locale);
+export default async function NotFound() {
   const t = await getTranslations('notFound');
 
   return (
