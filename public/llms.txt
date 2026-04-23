@@ -1,0 +1,60 @@
+# Medeinė Deginaitė — Registered Dietitian
+
+> HCPC-registered dietitian specialising in fertility nutrition, women's health, sustainable weight loss, and GLP-1 medication support. Online consultations across the United Kingdom in English and Lithuanian.
+
+Medeinė Deginaitė is a Registered Dietitian (HCPC) and Full Member of the British Dietetic Association (BDA) based in the United Kingdom. She has several years of clinical NHS experience and offers private online consultations across the UK.
+
+She specialises in three areas:
+
+1. **Fertility and preconception nutrition** — including IVF preparation, PCOS and fertility, male fertility nutrition, recurrent miscarriage nutrition, and evidence-based supplement guidance.
+2. **Weight loss and GLP-1 medication support** — including support for people on Mounjaro, Wegovy, and Ozempic, with a focus on protein sufficiency, muscle preservation, and long-term maintenance.
+3. **Women's health nutrition** — PCOS, gestational diabetes, pregnancy, postnatal and breastfeeding nutrition, and perimenopause / menopause.
+
+Consultations are delivered via Zoom, phone, or WhatsApp video. All services are online and available across the United Kingdom. Languages: English and Lithuanian (basic Russian understanding).
+
+## Key pages
+
+- [Home](/): Overview of the practice and specialisms
+- [About](/about): Medeinė's story, values, and credentials
+- [Services](/services): All service areas
+  - [Fertility & Preconception](/services/fertility)
+  - [Weight Loss & GLP-1 Support](/services/weight-loss)
+  - [Women's Health](/services/womens-health)
+- [Pricing](/pricing): Sessions, packages, and FAQ
+- [Journal](/blog): Evidence-based articles
+- [Contact](/contact): Booking and enquiries
+
+## Lithuanian versions
+
+All pages are available in Lithuanian at the `/lt/` prefix, e.g. [/lt](/lt), [/lt/about](/lt/about), [/lt/services/fertility](/lt/services/fertility).
+
+## Pricing summary
+
+- Discovery call (15 min): Free
+- Initial assessment (60 min): £85
+- Follow-up (30 min): £45
+- Follow-up (45 min): £60
+- Starter package (6 weeks): £165
+- Transform package (3 months): £320
+- Fertility Journey package (12 weeks): £425
+
+All prices in GBP. Payment via Stripe. Bookings via Cal.com.
+
+## Credentials
+
+- HCPC Registered Dietitian
+- BDA Full Member
+- BSc Human Nutrition and Dietetics
+- Several years of NHS clinical experience
+- Prior hospital-based practice in Lithuania
+
+## Scope of practice
+
+- UK residents (primary)
+- International enquiries considered case by case, subject to professional insurance scope
+- Not available for US-based clients (state-by-state licensing required)
+
+## Contact
+
+- Email: hello@medeinedietitian.co.uk
+- Website: https://medeinedietitian.co.uk

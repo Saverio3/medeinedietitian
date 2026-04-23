@@ -1,0 +1,660 @@
+{
+  "meta": {
+    "siteName": "Medeinė Deginaitė",
+    "tagline": "Registruota dietologė",
+    "defaultTitle": "Medeinė Deginaitė — Registruota dietologė | Vaisingumas, moterų sveikata, svorio kontrolė",
+    "defaultDescription": "HCPC registruota dietologė, dirbanti su vaisingumo mityba, moterų sveikata, PCOS, nėštumo diabetu ir tvariu svorio metimu, įskaitant pagalbą vartojant Mounjaro ir Wegovy. Konsultacijos internetu visoje Jungtinėje Karalystėje — lietuvių ir anglų kalbomis.",
+    "keywords": "dietologė UK, dietologas Londone, vaisingumo dietologė, mityba nėštumui, PCOS mityba, nėštumo diabetas, svorio metimas dietologė, Mounjaro pagalba, Wegovy dietologė, lietuvių dietologė UK, internetinė dietologė"
+  },
+  "nav": {
+    "home": "Pradžia",
+    "about": "Apie mane",
+    "services": "Paslaugos",
+    "tools": "Įrankiai",
+    "foodChecker": "Maisto nėštumui patikra",
+    "fertility": "Vaisingumas ir pasiruošimas nėštumui",
+    "weightLoss": "Svorio metimas ir GLP-1 pagalba",
+    "womensHealth": "Moterų sveikata",
+    "pricing": "Kainos",
+    "blog": "Dienoraštis",
+    "contact": "Kontaktai",
+    "bookCall": "Nemokamas pokalbis",
+    "languageToggle": "Kalba",
+    "menu": "Meniu",
+    "close": "Uždaryti",
+    "openMenu": "Atidaryti meniu",
+    "backHome": "Grįžti į pradžią"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Registruota dietologė · HCPC · BDA",
+      "title1": "Moksliškai pagrįsta mityba",
+      "title2": "svarbiausiems",
+      "title3": "gyvenimo etapams.",
+      "subtitle": "Specializuota dietologės pagalba siekiantiems pastoti, besirūpinantiems moterų sveikata ir norintiems tvariai mesti svorį. Konsultacijos internetu visoje Jungtinėje Karalystėje — lietuvių ir anglų kalbomis.",
+      "primaryCta": "Užsisakykite nemokamą 15 min. pokalbį",
+      "secondaryCta": "Kaip dirbu",
+      "photoAlt": "Medeinės Deginaitės, registruotos dietologės, nuotrauka",
+      "photoPlaceholder": "Nuotrauka bus netrukus",
+      "scrollHint": "Slinkite žemyn"
+    },
+    "trust": {
+      "eyebrow": "Kodėl tai svarbu",
+      "title": "Kvalifikuota ir reguliuojama specialistė, kuria galite pasitikėti.",
+      "body": "Jungtinėje Karalystėje pavadinimas „mitybos specialistas” (nutritionist) nėra teisiškai saugomas — juo gali vadintis bet kas. „Dietologas” yra teisiškai saugomas titulas, kurį reguliuoja Sveikatos ir priežiūros profesijų taryba (HCPC). Jis reikalauja pripažintos aukštojo mokslo kvalifikacijos ir nuolatinio profesinių standartų laikymosi.",
+      "items": [
+        {
+          "title": "HCPC registracija",
+          "description": "Registruota Sveikatos ir priežiūros profesijų taryboje (HCPC) — teisiškai saugomas dietologų standartas Jungtinėje Karalystėje."
+        },
+        {
+          "title": "BDA narė",
+          "description": "Visateisė Britų dietologų asociacijos (BDA) narė — profesinės organizacijos, atstovaujančios dietologams JK."
+        },
+        {
+          "title": "Patirtis NHS",
+          "description": "Ilgametė klinikinė patirtis Nacionalinės sveikatos tarnybos (NHS) bendruomeniniuose ir ligoninių padaliniuose."
+        },
+        {
+          "title": "Įrodymais grįsta",
+          "description": "Kiekviena rekomendacija remiasi moksliniais tyrimais ir šiuolaikinėmis klinikinėmis gairėmis — ne madomis ar tendencijomis."
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "Kaip galiu padėti",
+      "title": "Trys sritys, kuriose tinkama mityba keičia viską.",
+      "items": [
+        {
+          "slug": "fertility",
+          "tag": "Pagrindinė sritis",
+          "title": "Vaisingumas ir pasiruošimas nėštumui",
+          "description": "Mitybos pagalba poroms, siekiančioms pastoti, besiruošiantiems IVF ar einantiems jautriu vaisingumo gydymo keliu. Klinikinė patirtis kartu su asmenišku supratimu.",
+          "cta": "Sužinoti daugiau"
+        },
+        {
+          "slug": "weight-loss",
+          "tag": "Populiariausia",
+          "title": "Svorio metimas ir GLP-1 pagalba",
+          "description": "Tvarus svorio metimas be varginančių dietų ciklų. Specializuota dietologės pagalba vartojant Mounjaro, Wegovy ar Ozempic — būtent to, ko dauguma klinikų nesuteikia.",
+          "cta": "Sužinoti daugiau"
+        },
+        {
+          "slug": "womens-health",
+          "tag": "",
+          "title": "Moterų sveikata",
+          "description": "PCOS, nėštumo diabetas, nėštumas, pogimdyminis laikotarpis ir perimenopauzė. Konkrečioms būklėms pritaikyta pagalba — o ne tipinis mitybos planas.",
+          "cta": "Sužinoti daugiau"
+        }
+      ]
+    },
+    "story": {
+      "eyebrow": "Apie mane",
+      "title": "Suprantu tai, ko klientai ne visada ištaria garsiai.",
+      "body1": "Po ilgų metų NHS sistemoje ir savo pačios kelio per IVF supratau, kad geras mitybos patarimas niekada nėra vien apie maistą. Jis yra apie tai, kaip sutikti žmogų ten, kur jis iš tiesų yra — pavargusį, vilties kupiną, pasimetusį, pasiruošusį pokyčiui.",
+      "body2": "Ko bebūtumėte linkę tikėtis — sveiko nėštumo, kūno, kuris vėl jaustųsi jūsų, ar mitybos, kuri nevaldo jūsų gyvenimo — aš tikrai tikiu, kad tai įmanoma. Tinkama pagalba, tinkami įrodymai ir šiek tiek kantrybės nuveda žmones toliau, nei jie patys tikisi. Būtent tam aš ir esu.",
+      "cta": "Mano istorija",
+      "signature": "— Medeinė"
+    },
+    "process": {
+      "eyebrow": "Kaip viskas vyksta",
+      "title": "Paprastas, ramus kelias. Jokio spaudimo.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Nemokamas 15 min. pokalbis",
+          "description": "Pasikalbame apie jūsų tikslus ir pasižiūrime, ar mums pakeliui. Jokių patarimų, jokio spaudimo, jokio įsipareigojimo."
+        },
+        {
+          "number": "02",
+          "title": "Pirminė konsultacija",
+          "description": "Valandos trukmės susitikimas, kurio metu aptariame jūsų istoriją, tikslus ir kasdienybę. Per 48 valandas gausite raštišką planą."
+        },
+        {
+          "number": "03",
+          "title": "Nuolatinė pagalba",
+          "description": "Reguliarūs susitikimai, plano koregavimai ir švelnus palaikymas. Dauguma klientų reikšmingų pokyčių pastebi jau per tris susitikimus."
+        }
+      ]
+    },
+    "languages": {
+      "eyebrow": "Be vertimų, be kompromisų",
+      "title": "Konsultacijos ta kalba, kuria mąstote.",
+      "body": "Kalbėti apie savo kūną, viltis ir baimes gimtąja kalba yra pakankamai sunku. O kai tai tenka daryti per vertimą — tikrai gera pagalba tampa beveik neįmanoma. Dirbu laisvai lietuvių ir anglų kalbomis, rusiškai suprantu pagrindus. Tad galite susitelkti į tai, ką norite pasakyti, o ne į tai, kaip tai pasakyti."
+    },
+    "cta": {
+      "eyebrow": "Susisiekime",
+      "title": "Pasiruošę pradėti pokalbį?",
+      "subtitle": "Pirmasis pokalbis nemokamas, draugiškas ir visiškai be spaudimo. Labai noriu jus išgirsti.",
+      "button": "Užsisakyti nemokamą pokalbį",
+      "secondary": "Arba parašykite žinutę"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "Apie mane",
+      "title": "Sveiki, aš Medeinė.",
+      "subtitle": "Registruota dietologė, žmona ir — klientams, ko gero, svarbiausia — kelią, kuriuo dabar padedu eiti kitiems, aš ėjau ir pati."
+    },
+    "story": {
+      "heading": "Mano istorija",
+      "paragraphs": [
+        "Savo karjerą dietologe pradėjau Lietuvoje, dirbdama valstybinėse ligoninėse. Su vyru persikėlus į Jungtinę Karalystę, profesinį kelią tęsiau čia — paskutinius kelerius metus dirbau Nacionalinėje sveikatos tarnyboje (NHS), bendruomeninėje dietologijoje ir su įvairiomis klinikinėmis sritimis.",
+        "NHS darbas man suteikė gilią patirtį dirbant su cukriniu diabetu, svorio metimu ir svorio augimu, nepakankama mityba, zondine mityba — ir, svarbiausia, su praktine realybe, kaip padėti žmonėms keisti mitybą tada, kai gyvenimas jau ir taip sudėtingas. Šiame darbe supratau: klinikiniai įrodymai — tik pusė užduoties. Kita pusė — įdėmiai klausytis, kol sukuri planą, su kuriuo žmogus iš tiesų galės gyventi.",
+        "Tai, kad didelę dalį savo privačios praktikos dabar skiriu vaisingumui, turi ir asmeninį pagrindą. Su vyru patys ėjome per IVF. Ta patirtis parodė, kaip iš tiesų jaučiasi žmogus vaisingumo kelyje — viltis, išsekimas, prieštaringi patarimai iš visų pusių, atkaklus noras daryti bent ką nors, kas galbūt padės. Norėjau savo klinikines žinias skirti toms poroms, kurios dabar eina tuo pačiu keliu.",
+        "Konsultuoju anglų ir lietuvių kalbomis, rusiškai suprantu pagrindus. Esu visateisė Britų dietologų asociacijos (BDA) narė ir registruota HCPC — teisiškai saugomais standartais, kurie skiria kvalifikuotą dietologę nuo platesnio, nereguliuojamo „mitybos specialistų” ir „sveikatos konsultantų” pasaulio."
+      ]
+    },
+    "values": {
+      "eyebrow": "Kaip dirbu",
+      "heading": "Keturi principai, kurie formuoja kiekvieną konsultaciją.",
+      "items": [
+        {
+          "number": "01",
+          "title": "Įrodymai, o ne madingos idėjos",
+          "description": "Mitybos pasaulyje netrūksta madingų nuomonių. Mano rekomendacijos remiasi moksliniais tyrimais ir klinikinėmis gairėmis — o ne tuo, kas šį mėnesį populiaru socialiniuose tinkluose."
+        },
+        {
+          "number": "02",
+          "title": "Maži, tvarūs pokyčiai",
+          "description": "Dieta, kurios laikotės dvi savaites, retai ką keičia. Pokytis, su kuriuo galite gyventi dvejus metus, keičia viską. Kuriu planus realiam gyvenimui, o ne fotosesijai."
+        },
+        {
+          "number": "03",
+          "title": "Jokio smerkimo. Niekada.",
+          "description": "Neturiu jokio intereso priversti žmogų jaustis kaltu dėl maisto. Tai, ką valgote dabar, yra informacija, o ne nuosprendis. Kiekviena konsultacija — bendras darbas tarp lygių."
+        },
+        {
+          "number": "04",
+          "title": "Aiškūs, raštiški planai",
+          "description": "Po kiekvieno susitikimo gausite raštišką santrauką su praktiniais žingsniais, ištekliais ir tolesniais veiksmais. Niekada neišeisite galvodami, ką turėtumėte daryti toliau."
+        }
+      ]
+    },
+    "credentials": {
+      "heading": "Kvalifikacija ir narystės",
+      "items": [
+        "Žmogaus mitybos ir dietologijos bakalauras (BSc)",
+        "HCPC registruota dietologė",
+        "Visateisė Britų dietologų asociacijos (BDA) narė",
+        "Keleri metai klinikinio darbo NHS",
+        "Ankstesnė darbo patirtis Lietuvos ligoninėse"
+      ]
+    },
+    "cta": {
+      "title": "Ar mums pakeliui?",
+      "subtitle": "Vienintelis būdas tai išsiaiškinti — pokalbis. Penkiolika minučių, nemokamai, be spaudimo.",
+      "button": "Užsisakyti nemokamą pokalbį"
+    }
+  },
+  "servicesIndex": {
+    "hero": {
+      "eyebrow": "Paslaugos",
+      "title": "Klinikinė mitybos pagalba, pritaikyta jums.",
+      "subtitle": "Visos konsultacijos vyksta internetu — per Zoom, telefonu arba WhatsApp vaizdo skambučiu — jums patogiu laiku."
+    },
+    "intro": "Dirbu trijose specializuotose srityse. Kiekviena jų remiasi klinikiniais įrodymais, suformuota ilgamečio darbo NHS ir vedama nuoširdaus rūpesčio žmogumi priešais mane.",
+    "cta": {
+      "title": "Nežinote, kuri sritis jums tinkama?",
+      "subtitle": "Kaip tik tam ir skirtas nemokamas 15 minučių pokalbis. Pasikalbėsime, ir aš sąžiningai pakreipsiu jus tinkama kryptimi — net jei toji kryptis veda ne pas mane.",
+      "button": "Užsisakyti nemokamą pokalbį"
+    }
+  },
+  "fertility": {
+    "hero": {
+      "eyebrow": "Pagrindinė sritis",
+      "title": "Vaisingumas ir pasiruošimas nėštumui",
+      "subtitle": "Moksliniais įrodymais pagrįsta mitybos pagalba poroms, siekiančioms pastoti, besiruošiančioms IVF ar einančioms vaisingumo gydymo keliu. Rekomendacijos dėl geriausio maisto vaisingumui, kiaušialąsčių ir spermatozoidų kokybės bei tikrai veikiančių papildų. Klinikinė patirtis su asmenišku supratimu."
+    },
+    "intro": {
+      "heading": "Mityba vaisingumui turi išmatuojamą reikšmę. Tik mažai kam tai paaiškinama.",
+      "body1": "Vis gausėjantys tyrimai sieja mitybą su ovuliacija, kiaušialąsčių ir spermatozoidų kokybe, implantacija ir IVF rezultatais. Svarbu konkretūs maistinės medžiagos. Svarbu konkretūs mitybos modeliai. Ir vis dėlto dauguma žmonių, einančių per vaisingumo gydymą, iš savo klinikų praktiškai negauna jokių mitybos rekomendacijų.",
+      "body2": "Klinikinį pagrindą įgijau NHS. Bet pati taip pat ėjau per IVF. Žinau, kaip jaučiasi žmogus, sėdintis priešais dar vieną specialistą ir galvojantis, ar tas žmogus iš tiesų supranta, ko šis kelias pareikalauja. Būtent šio darbo ir atėjau į mitybos sritį."
+    },
+    "supports": {
+      "heading": "Sritys, kuriose padedu",
+      "items": [
+        {
+          "title": "Pasiruošimo nėštumui mityba",
+          "description": "Asmenims ir poroms likus nuo trijų iki dvylikos mėnesių iki nėštumo planavimo. Kiaušialąsčių ir spermatozoidų kokybės gerinimas, trūkumų koregavimas, mitybos pamatų sveikam nėštumui sukūrimas."
+        },
+        {
+          "title": "Pasiruošimas IVF ir palaikymas",
+          "description": "Mitybos strategijos per stimuliaciją, kiaušialąsčių paėmimą, embriono perkėlimą ir laukimo savaites. Realistiniai planai emocijomis jau taip apkrautam laikotarpiui — orientuoti į energiją, o ne į apribojimus."
+        },
+        {
+          "title": "PCOS ir vaisingumas",
+          "description": "PCOS yra dažniausia hormoninė nevaisingumo priežastis. Taikomos mitybos strategijos insulino atsparumui, ovuliacijai ir, kai aktualu, svoriui — visa tai pagrįsta dabartiniais klinikiniais įrodymais."
+        },
+        {
+          "title": "Kiaušialąsčių kokybė ir mityba",
+          "description": "Trys mėnesiai prieš bandymą svarbūs. Įrodymais grįstos mitybos strategijos kiaušialąsčių kokybei palaikyti — maistas, maistinės medžiagos ir papildai, kuriuos tyrimai iš tiesų palaiko, be interneto triukšmo."
+        },
+        {
+          "title": "Spermatozoidų kokybė ir vyrų vaisingumas",
+          "description": "Vyriškasis veiksnys sudaro maždaug pusę vaisingumo sunkumų, tačiau dažnai pamirštamas. Dietologės požiūris į spermatozoidų kokybę — konkrečios maistinės medžiagos, praktiniai gyvensenos pokyčiai ir ką įrodymai iš tiesų palaiko vyrams, planuojantiems šeimos pagausėjimą."
+        },
+        {
+          "title": "Pasikartojančio persileidimo mityba",
+          "description": "Palaikanti mityba kartu su medicininiu tyrimu — orientuota į tai, ką rodo įrodymai, įskaitant konkrečias maistines medžiagas ir uždegimines mitybos ypatybes."
+        },
+        {
+          "title": "Antrinis nevaisingumas",
+          "description": "Vaisingumo sunkumai po ankstesnio nėštumo neša savitą tylų skausmą. Individualizuota mitybos pagalba, kuri pripažįsta, kur jūs jau esate buvę."
+        },
+        {
+          "title": "Moksliniais įrodymais pagrįstos papildų rekomendacijos",
+          "description": "Folio rūgštis, vitaminas D, omega-3, CoQ10, inozitolis ir kiti — ką iš tikrųjų patvirtina įrodymai, kokia dozė tinka būtent jums ir ko verta atsisakyti. Jokio papildų pardavimo, jokių partnerystės nuorodų, jokio interesų konflikto."
+        }
+      ]
+    },
+    "approach": {
+      "heading": "Kaip veikia vaisingumo programa",
+      "steps": [
+        {
+          "title": "Nuoseklus įvertinimas",
+          "description": "Išsamus jūsų istorijos, iki šiol atliktų tyrimų, dabartinės mitybos, gyvensenos, papildų ir tikslų apžvalga. Raštiškas planas per 48 valandas."
+        },
+        {
+          "title": "Individualus planas",
+          "description": "Kuriamas pagal jūsų ciklą, gydymo laikotarpį (jei aktualu), jūsų pageidavimus ir jūsų gyvenimą. Ne kažkoks bendras „vaisingumo dietos” lapelis iš interneto."
+        },
+        {
+          "title": "Nuolatinė pagalba",
+          "description": "Kas dvi savaites arba kas mėnesį — susitikimai, suderinti su jūsų ciklu arba gydymu. Žinučių palaikymas tarp susitikimų neišvengiamiems klausimams."
+        }
+      ]
+    },
+    "personal": {
+      "heading": "Asmeninis žodis",
+      "body": "Darbas su vaisingumu yra tai, kas mane labiausiai priartina prie priežasties, dėl kurios perkvalifikavau savo karjerą. Jei mūsų pačių IVF kelio metu kažkas būtų pasakęs, kad mes su vyru vieną dieną padėsime kitoms poroms eiti tuo pačiu keliu, nesu tikra, ar būčiau patikėjusi. Bet štai aš čia, o štai jūs čia. Jeigu norėtumėte pasikalbėti — būsiu nuoširdžiai dėkinga už tą pokalbį."
+    },
+    "cta": {
+      "title": "Pasikalbėkime apie tai, kur esate dabar.",
+      "subtitle": "Nemokamai, 15 minučių, be spaudimo. Šis pokalbis — kad jūs nuspręstumėte, ar aš esu tinkama pagalba šiam jūsų etapui.",
+      "button": "Užsisakyti nemokamą pokalbį"
+    }
+  },
+  "weightLoss": {
+    "hero": {
+      "eyebrow": "Populiariausia",
+      "title": "Svorio metimas ir GLP-1 pagalba",
+      "subtitle": "Tvarus svorio metimas be varginančių dietų ciklų ir savęs nubaudimo. Specializuota dietologės pagalba vartojant Mounjaro, Wegovy ar Ozempic — įskaitant raumenų išsaugojimo ir rezultatų palaikymo strategijas, kurių dauguma klinikų nesuteikia."
+    },
+    "glp1": {
+      "eyebrow": "GLP-1 pagalba",
+      "heading": "Vartojate Mounjaro, Wegovy ar Ozempic? Čia dauguma klinikų sustoja.",
+      "body1": "GLP-1 vaistai yra įspūdingas įrankis. Jie tikrai veikia. Bet svorio metimas — tik pusė užduoties. Kaip svorio neatgauti, kaip išsaugoti raumenų masę ir kaip tvarkytis su mitybos realybe valgant gerokai mažiau — to beveik niekas neaptaria skiriančiose vaistą klinikose.",
+      "body2": "Palaikau klientus, vartojančius GLP-1 vaistus, būtent ta klinikinės mitybos dalimi, kuri lemia, ar rezultatai išliks. Pakankamas baltymų kiekis. Mikroelementų gausa. Raumenų išsaugojimas per fizinio aktyvumo rekomendacijas. Ir tikras mitybos modelis, kurio galėsite laikytis, kai gydymas pasibaigs."
+    },
+    "glp1Support": {
+      "heading": "Kaip atrodo GLP-1 pagalba pas mane",
+      "items": [
+        {
+          "title": "Pakankamas baltymų kiekis",
+          "description": "Raumenų praradimas yra didžiausia klinikinė GLP-1 vaistų rizika. Aiškūs, pasiekiami baltymų tikslai dienai, pritaikyti prie jūsų svorio ir tolerancijos."
+        },
+        {
+          "title": "Mikroelementų strategija",
+          "description": "Valgant ryškiai mažiau, kūnas gauna ryškiai mažiau jam vis dar reikalingų mikroelementų. Taikomos maistu pagrįstos rekomendacijos, pridedant papildus tik tada, kai jie tikrai reikalingi."
+        },
+        {
+          "title": "Šalutinių poveikių valdymas",
+          "description": "Pykinimas, vidurių užkietėjimas, maisto atmetimas, greitas sotumas — visa tai dažna ir visa tai valdoma tinkama mityba. Nereikia tiesiog kęsti."
+        },
+        {
+          "title": "Rezultatų išlaikymas",
+          "description": "Sunkiausias klausimas vartojant GLP-1 — kas nutiks, kai nustosite. Kartu dirbame su mitybos modeliu, įpročiais ir santykiu su maistu, kurie padarys rezultatus ilgalaikiais."
+        }
+      ]
+    },
+    "beyond": {
+      "eyebrow": "Ne tik GLP-1",
+      "heading": "Tvarus svorio metimas be vaistų",
+      "body": "Ne kiekvienas nori ar turi vartoti vaistus. Tiems, kurie svorio keisti nori per mitybą ir gyvensenos pokyčius, siūlau moksliniais įrodymais pagrįstą pagalbą, remdamasi savo patirtimi NHS svorio valdymo tarnyboje. Dėmesys — įpročiams, kurie išlieka, o ne ribojančioms dietoms, kurios neišsilaiko."
+    },
+    "covers": {
+      "heading": "Su kuo dirbu",
+      "items": [
+        "Klinikinis svorio metimas — suaugusiųjų svorio valdymas, kuriam gydytojas ne visada turi laiko",
+        "GLP-1 vaistų pagalba (Mounjaro, Wegovy, Ozempic) — baltymai, raumenys, mikroelementai ir rezultatų išlaikymas",
+        "Emocinis valgymas ir santykis su maistu — su nukreipimu pas psichologą, jei terapinė pagalba būtų tinkamesnė",
+        "Mityba po bariatrinės operacijos — ilgalaikė pagalba po skrandžio sumažinimo ar apėjimo operacijų",
+        "Svorio metimas vaisingumui — konkrečios įrodymais pagrįstos strategijos, kai svoris yra reikšmingas pastojimui"
+      ]
+    },
+    "cta": {
+      "title": "Pasiruošę tvariam keliui?",
+      "subtitle": "Pasikalbėkime, kur esate dabar, kas iki šiol pavyko, kas ne, ir kaip atrodytų realistiškas planas būtent jums.",
+      "button": "Užsisakyti nemokamą pokalbį"
+    }
+  },
+  "womensHealth": {
+    "hero": {
+      "eyebrow": "Moterų sveikata",
+      "title": "Moterų sveikatos mityba",
+      "subtitle": "Konkrečioms būklėms pritaikyta mityba — PCOS, nėštumo diabetui, nėštumui, pogimdyminiam laikotarpiui ir perimenopauzei. Praktiniai planai, kurie dirba kartu su jūsų medicinine priežiūra, o ne šalia jos."
+    },
+    "intro": {
+      "heading": "Mityba kiekvienam etapui.",
+      "body": "Moters kūnas atlieka nepaprastus dalykus per nepaprastus laikotarpius — o mitybos pagalba, kurią per šiuos pokyčius dauguma moterų gauna, geriausiu atveju yra neišsami. Dirbu su moterimis, išgyvenančiomis konkrečius hormoninius ir metabolinius pokyčius, kiekvienam etapui suteikdama klinikinius įrodymus ir praktinius planus."
+    },
+    "areas": {
+      "heading": "Specializuotos sritys",
+      "items": [
+        {
+          "title": "PCOS dietologės pagalba",
+          "description": "Specializuota PCOS dietologės pagalba — insulino atsparumui, ovuliacijai, svorio valdymui, kai tai aktualu, ir PCOS įtakai vaisingumui. Šios srities įrodymų bazė kur kas stipresnė, nei dažnai pasakoma — konkreti, veiksminga ir tikrai ne ta pati kaip „bendra sveika mityba”."
+        },
+        {
+          "title": "Nėštumo diabetas",
+          "description": "Praktinė mitybos pagalba nėštumo diabeto atveju, derinama su jūsų nėštumo priežiūros komanda. Aiškios angliavandenių strategijos, realistiškas valgiaraščio planavimas ir palaikymas šiam trumpam, intensyviam laikotarpiui."
+        },
+        {
+          "title": "Mityba nėštumo metu",
+          "description": "Moksliniais įrodymais grįsta mityba per kiekvieną nėštumo trimestrą, įskaitant didesnės rizikos nėštumus, hyperemesis gravidarum, geležies ir kitų medžiagų trūkumus bei svorio priaugimo rekomendacijas."
+        },
+        {
+          "title": "Pogimdyminis laikotarpis ir žindymas",
+          "description": "Atsigavimas po gimdymo, energija, maistinių medžiagų atkūrimas ir mityba žindymo metu. Pagalba, kuri paprastai dingsta tą pačią akimirką, kai gimsta kūdikis."
+        },
+        {
+          "title": "Perimenopauzė ir menopauzė",
+          "description": "Mitybos strategijos metaboliniams, kaulų sveikatos ir kūno sudėties pokyčiams menopauzės laikotarpiu. Moksliškai pagrįsta, realistiška ir be papildų, kurių jums iš tiesų nereikia."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Kad ir kokį etapą išgyvenate — jums nereikia eiti vienai.",
+      "subtitle": "Nemokamas 15 minučių pokalbis — pasikalbėsime, kas vyksta, ir pažiūrėsime, ar bendras darbas turi prasmę.",
+      "button": "Užsisakyti nemokamą pokalbį"
+    }
+  },
+  "pricing": {
+    "hero": {
+      "eyebrow": "Kainos",
+      "title": "Aiškios, sąžiningos kainos. Jokių staigmenų.",
+      "subtitle": "Į kiekvieną konsultaciją įeina pasiruošimas prieš susitikimą, pats susitikimas ir raštiška santrauka per 48 valandas."
+    },
+    "sessionsHeading": "Pavienės konsultacijos",
+    "sessions": [
+      {
+        "id": "discovery",
+        "name": "Pažinties pokalbis",
+        "price": "Nemokamas",
+        "duration": "15 minučių",
+        "description": "Ramus įvadinis pokalbis, kuriame aptariame jūsų tikslus ir pasižiūrime, ar mums pakeliui. Jokių patarimų, jokio įsipareigojimo — tiesiog pokalbis.",
+        "features": [
+          "Vaizdo ar telefoninis skambutis",
+          "Jokio pasiruošimo nereikia",
+          "Sąžininga rekomendacija — net jei ji yra ne pas mane"
+        ],
+        "cta": "Užsisakyti pokalbį",
+        "featured": true
+      },
+      {
+        "id": "initial",
+        "name": "Pirminė konsultacija",
+        "price": "£90",
+        "duration": "60 minučių",
+        "description": "Jūsų pirmoji išsami konsultacija. Nuoseklus istorijos, tikslų ir dabartinės situacijos aptarimas. Per 48 valandas gausite raštišką planą.",
+        "features": [
+          "Išsamus klausimynas iki susitikimo",
+          "Valandos trukmės vaizdo konsultacija",
+          "Individualus raštiškas planas per 48 valandas",
+          "Išteklių rinkinys ir tolesni žingsniai"
+        ],
+        "cta": "Užsisakyti pirminę konsultaciją"
+      },
+      {
+        "id": "followup30",
+        "name": "Tolesnė konsultacija",
+        "price": "£45",
+        "duration": "30 minučių",
+        "description": "Tikslingas pokalbis tarp didesnių susitikimų. Puikiai tinka palaikymui, smulkiems koregavimams ir norint neišklysti iš kelio.",
+        "features": [
+          "30 minučių vaizdo konsultacija",
+          "Plano atnaujinimai, kai reikalinga",
+          "Raštiška santrauka per 48 valandas"
+        ],
+        "cta": "Užsisakyti susitikimą"
+      }
+    ],
+    "packagesHeading": "Programos — geresnis santykis, geresni rezultatai",
+    "packagesSubtitle": "Tikras pokytis retai telpa į vieną susitikimą. Programos kainuoja pigiau nei tos pačios konsultacijos atskirai ir apima žinučių palaikymą tarp susitikimų.",
+    "packages": [
+      {
+        "id": "starter",
+        "name": "Pradžia",
+        "price": "£165",
+        "duration": "6 savaitės",
+        "description": "Tinkamas pradžios taškas daugumai klientų. Pakankamai laiko padėti pamatus, įgyvendinti pirmuosius realius pokyčius ir pažiūrėti, ar mums pakeliui ilgiau.",
+        "features": [
+          "Pirminė konsultacija (60 min.)",
+          "Du susitikimai (po 30 min.)",
+          "Raštiški planai ir ištekliai",
+          "El. pašto palaikymas tarp susitikimų",
+          "Sutaupote £10 palyginti su atskira kaina"
+        ],
+        "cta": "Pradėti „Pradžia” programą"
+      },
+      {
+        "id": "transform",
+        "name": "Pokytis",
+        "price": "£320",
+        "duration": "3 mėnesiai",
+        "description": "Klientams, pasiryžusiems reikšmingam pokyčiui. Reguliari pagalba per tris mėnesius ir žinučių palaikymas, kad niekada neliktumėte įstrigę tarp susitikimų.",
+        "features": [
+          "Pirminė konsultacija (60 min.)",
+          "Penki susitikimai (po 30 min.)",
+          "WhatsApp žinučių palaikymas (2 savaitės)",
+          "Išsamūs planai ir išteklių biblioteka",
+          "Lankstus tvarkaraštis pagal jūsų gyvenimą"
+        ],
+        "cta": "Pradėti „Pokytis”",
+        "featured": true
+      },
+      {
+        "id": "fertility",
+        "name": "Vaisingumo kelias",
+        "price": "£425",
+        "duration": "12 savaičių",
+        "description": "Skirta vaisingumui ir pasiruošimui nėštumui programa, sukurta pagal jūsų ciklą arba gydymo laikotarpį. Išsami, švelnaus tempo, niekada neskubinama.",
+        "features": [
+          "Išplėsta pirminė konsultacija (75 min.)",
+          "Šeši susitikimai (po 45 min.)",
+          "Susitikimai suderinti su ciklu arba gydymu",
+          "WhatsApp palaikymas per visą programą",
+          "Partneris dalyvauja be papildomo mokesčio",
+          "Vaisingumo išteklių biblioteka"
+        ],
+        "cta": "Pradėti „Vaisingumo kelią”"
+      }
+    ],
+    "faq": {
+      "heading": "Dažniausi klausimai dėl kainų",
+      "items": [
+        {
+          "question": "Ar galiu susimokėti per privatų sveikatos draudimą?",
+          "answer": "Daugelis JK privačių sveikatos draudikų kompensuoja konsultacijas pas HCPC registruotą dietologą (įskaitant Bupa, Vitality, AXA, WPA), tačiau aprėptis priklauso nuo poliso. Prieš užsisakydami prašome pasitikslinti su draudiku — sąskaita išrašoma tiesiogiai jums, o kompensaciją prašote iš draudiko; šiuo metu nedirbu kaip tiesioginio mokėjimo partnerė."
+        },
+        {
+          "question": "Kas, jei reikės atšaukti?",
+          "answer": "Atšaukus likus daugiau nei 24 valandoms — visas pinigų grąžinimas arba nemokamas perkėlimas. Per 24 valandas iki susitikimo apmokėjimas negrąžinamas, tačiau susitikimas vieną kartą gali būti perkeltas be papildomo mokesčio."
+        },
+        {
+          "question": "Ar turite nuolaidų sudėtingose finansinėse situacijose?",
+          "answer": "Šiek tiek vietų su sumažinta kaina skiriu žmonėms, turintiems tikrų finansinių sunkumų — ypač vaisingumo ir moterų sveikatos srityse. Parašykite ir nuoširdžiai pasikalbėkime — jokios formos pildyti nereikės ir jokio nepatogumo nebus."
+        },
+        {
+          "question": "Kaip apmokama?",
+          "answer": "Apmokėjimas imamas užsakymo metu per Stripe — debeto ar kredito kortele, Apple Pay arba Google Pay. Programų kainą paprašius galima išskaidyti į dvi dalines įmokas."
+        },
+        {
+          "question": "Ar konsultuojate klientus už JK ribų?",
+          "answer": "Mano HCPC registracija ir profesinis draudimas galioja JK, tad pagrindinė mano praktika — su JK gyventojais. Tarptautinius užklausimus svarstau kiekvienu atveju atskirai — prašome susisiekti, ir aš nuoširdžiai pasakysiu, ar esu tinkama jums."
+        }
+      ]
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Susisiekime",
+      "title": "Pasikalbėkime.",
+      "subtitle": "Paprasčiausias pirmas žingsnis — nemokamas 15 minučių pokalbis. Pasirinkite laiką žemiau. Ilgesniems klausimams yra forma — atsakau per dvi darbo dienas."
+    },
+    "booking": {
+      "heading": "Užsisakyti nemokamą pokalbį",
+      "subtitle": "Tiesiai į mano kalendorių. Pasirinkite jums tinkantį laiką ir el. paštu gausite patvirtinimą su vaizdo nuoroda.",
+      "cta": "Peržiūrėti laisvus laikus"
+    },
+    "form": {
+      "heading": "Parašyti žinutę",
+      "subtitle": "Viskam, kas dar netinka užsakymui. Atsakau per dvi darbo dienas.",
+      "name": "Jūsų vardas",
+      "namePlaceholder": "Jonas Jonaitis",
+      "email": "El. pašto adresas",
+      "emailPlaceholder": "jonas@pavyzdys.lt",
+      "subject": "Tema",
+      "subjectPlaceholder": "Apie ką norite pasikalbėti?",
+      "message": "Žinutė",
+      "messagePlaceholder": "Šiek tiek papasakokite, ko ieškote...",
+      "consent": "Suprantu, kad ši forma siunčia el. laišką, o mano duomenys tvarkomi pagal privatumo politiką.",
+      "submit": "Siųsti žinutę",
+      "submitting": "Siunčiama...",
+      "success": "Ačiū — jūsų žinutė jau kelyje. Susisieksiu per dvi darbo dienas.",
+      "error": "Kažkas nepavyko. Bandykite dar kartą arba parašykite tiesiogiai el. paštu.",
+      "required": "Būtina užpildyti",
+      "invalidEmail": "Įveskite teisingą el. pašto adresą"
+    },
+    "details": {
+      "heading": "Kiti būdai susisiekti",
+      "emailLabel": "El. paštas",
+      "hoursLabel": "Atsakymo laikas",
+      "hoursValue": "Per dvi darbo dienas",
+      "locationLabel": "Praktika",
+      "locationValue": "Konsultacijos internetu visoje Jungtinėje Karalystėje",
+      "languagesLabel": "Kalbos",
+      "languagesValue": "Lietuvių, anglų (rusų — suprantu pagrindus)"
+    }
+  },
+  "blog": {
+    "hero": {
+      "eyebrow": "Dienoraštis",
+      "title": "Mintys, vadovai ir įrodymais grįsti tekstai.",
+      "subtitle": "Ilgesni straipsniai apie vaisingumo mitybą, svorio valdymą, GLP-1 vaistus ir moterų sveikatą — be įprastų interneto nesąmonių."
+    },
+    "filters": {
+      "all": "Visi straipsniai",
+      "fertility": "Vaisingumas",
+      "weightLoss": "Svorio metimas",
+      "glp1": "GLP-1",
+      "womensHealth": "Moterų sveikata",
+      "nutrition": "Mityba",
+      "recipes": "Receptai"
+    },
+    "empty": {
+      "title": "Straipsniai netrukus.",
+      "body": "Kuriu biblioteką tikrai naudingų, įrodymais grįstų tekstų. Pirmieji straipsniai pasirodys čia netrukus. Jei norėtumėte tam tikros temos — parašykite, ir įtrauksiu."
+    },
+    "readMore": "Skaityti daugiau",
+    "readingTime": "{minutes} min. skaitymo",
+    "category": "Kategorija",
+    "published": "Paskelbta",
+    "backToBlog": "Grįžti į dienoraštį"
+  },
+  "legal": {
+    "languageNotice": "Teisiniai puslapiai pateikiami anglų kalba. Versija lietuvių kalba suteikiama paprašius — susisiekite su mumis.",
+    "privacy": {
+      "title": "Privatumo politika",
+      "lastUpdated": "Paskutinį kartą atnaujinta"
+    },
+    "terms": {
+      "title": "Paslaugų teikimo sąlygos",
+      "lastUpdated": "Paskutinį kartą atnaujinta"
+    }
+  },
+  "footer": {
+    "tagline": "Moksliniais įrodymais grįsta mityba vaisingumui, moterų sveikatai ir tvariam svorio metimui.",
+    "navHeading": "Naršyti",
+    "servicesHeading": "Paslaugos",
+    "legalHeading": "Teisinė informacija",
+    "contactHeading": "Kontaktai",
+    "privacy": "Privatumo politika",
+    "terms": "Paslaugų sąlygos",
+    "cookies": "Slapukai",
+    "followMe": "Sekite",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "linkedin": "LinkedIn",
+    "credits": "Sukurta su rūpesčiu Jungtinėje Karalystėje.",
+    "disclaimer": "Šios svetainės turinys skirtas bendram švietimo tikslui ir nepakeičia individualios klinikinės konsultacijos jūsų konkrečiai situacijai. Dėl asmeninės mitybos pagalbos užsisakykite konsultaciją arba pasikonsultuokite su šeimos gydytoju dėl gydytojo priežiūros reikalaujančių sveikatos problemų."
+  },
+  "notFound": {
+    "title": "Puslapis nerastas.",
+    "subtitle": "Puslapio, kurio ieškote, nėra arba jis buvo perkeltas.",
+    "cta": "Grįžti į pradžią"
+  },
+  "common": {
+    "loading": "Kraunama...",
+    "learnMore": "Sužinoti daugiau",
+    "bookCall": "Užsisakyti nemokamą pokalbį",
+    "getInTouch": "Susisiekti",
+    "yes": "Taip",
+    "no": "Ne"
+  },
+  "foodChecker": {
+    "meta": {
+      "title": "Maisto nėštumo metu patikra — ar šis maistas saugus?",
+      "description": "Dietologės paruoštas, įrodymais grįstas vadovas, kuris maistas nėštumo metu saugus, kurį riboti ir kurio vengti. Ieškokite iš 30+ dažniausių produktų — aiškūs atsakymai pagal NHS gaires."
+    },
+    "hero": {
+      "eyebrow": "Nemokamas įrankis",
+      "title1": "Ar šis maistas",
+      "title2": "saugus nėštumo metu?",
+      "subtitle": "Ramus, įrodymais grįstas vadovas iš JK registruotos dietologės. Įveskite produktą ir gaukite aiškų atsakymą, paremtą dabartinėmis NHS gairėmis.",
+      "searchPlaceholder": "Įveskite produktą — pvz., suši, tunas, sūris...",
+      "resultsCount": "{count, plural, =0 {Produktų nerasta} one {Rastas # produktas} few {Rasti # produktai} other {Rasta # produktų}}"
+    },
+    "verdicts": {
+      "safe": "Saugu",
+      "limited": "Su apribojimais",
+      "avoid": "Vengti",
+      "safeLong": "Paprastai saugu",
+      "limitedLong": "Saugu su apribojimais",
+      "avoidLong": "Geriau vengti"
+    },
+    "filters": {
+      "all": "Visi produktai",
+      "safeOnly": "Saugu",
+      "limitedOnly": "Ribota",
+      "avoidOnly": "Vengti"
+    },
+    "categoryHeading": "Naršyti pagal kategorijas",
+    "noResults": {
+      "title": "Atitikmenų nerasta",
+      "subtitle": "Pabandykite kitą paieškos terminą arba naršykite pagal kategorijas žemiau. Jei nerandate, parašykite žinutę — įtrauksime."
+    },
+    "disclaimer": "Tai bendrosios rekomendacijos pagal NHS gaires, galiojančias 2026 m. balandį. Tai nėra medicininis patarimas. Dėl savo konkretaus nėštumo kreipkitės į akušerę ar šeimos gydytoją.",
+    "foodPage": {
+      "whatTheEvidence": "Ką sako įrodymai",
+      "whyItMatters": "Kodėl tai svarbu",
+      "source": "Šaltinis",
+      "lastReviewed": "Paskutinį kartą peržiūrėta",
+      "backToChecker": "Grįžti į visų produktų sąrašą",
+      "relatedFoods": "Susiję produktai"
+    },
+    "cta": {
+      "eyebrow": "Individuali pagalba",
+      "title": "Planuojate nėštumą ar bandote pastoti?",
+      "subtitle": "Bendros rekomendacijos — tik pradžios taškas. Jei norėtumėte mitybos pagalbos, pritaikytos jūsų situacijai, mielai padėsiu.",
+      "button": "Užsisakyti nemokamą 15 min. pokalbį",
+      "learnMore": "Peržiūrėti vaisingumo paslaugas"
+    },
+    "authoredBy": {
+      "label": "Peržiūrėjo",
+      "name": "Medeinė Deginaitė",
+      "credentials": "Registruota dietologė, HCPC · BDA"
+    }
+  }
+}

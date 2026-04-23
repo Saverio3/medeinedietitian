@@ -1,0 +1,660 @@
+{
+  "meta": {
+    "siteName": "Medeinė Deginaitė",
+    "tagline": "Registered Dietitian",
+    "defaultTitle": "Medeinė Deginaitė — Registered Dietitian | Fertility, Women's Health & Weight Loss UK",
+    "defaultDescription": "HCPC-registered dietitian specialising in fertility nutrition, women's health, PCOS, gestational diabetes, and sustainable weight loss including Mounjaro and Wegovy support. Online consultations across the UK in English and Lithuanian.",
+    "keywords": "fertility dietitian UK, preconception nutrition, IVF nutrition, PCOS dietitian UK, gestational diabetes dietitian, weight loss dietitian UK, Mounjaro support, Wegovy dietitian, Ozempic nutrition, Lithuanian dietitian UK, online dietitian UK, HCPC registered dietitian"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "tools": "Tools",
+    "foodChecker": "Pregnancy Food Checker",
+    "fertility": "Fertility & Preconception",
+    "weightLoss": "Weight Loss & GLP-1 Support",
+    "womensHealth": "Women's Health",
+    "pricing": "Pricing",
+    "blog": "Journal",
+    "contact": "Contact",
+    "bookCall": "Book a free call",
+    "languageToggle": "Language",
+    "menu": "Menu",
+    "close": "Close",
+    "openMenu": "Open menu",
+    "backHome": "Back to home"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Registered Dietitian · HCPC · BDA",
+      "title1": "Evidence-based nutrition",
+      "title2": "for the moments",
+      "title3": "that matter most.",
+      "subtitle": "Specialist dietetic support for fertility, women's health, and sustainable weight loss. Online consultations across the UK — in English and Lithuanian.",
+      "primaryCta": "Book a free 15-minute call",
+      "secondaryCta": "See how I work",
+      "photoAlt": "Portrait of Medeinė Deginaitė, Registered Dietitian",
+      "photoPlaceholder": "Portrait photo coming soon",
+      "scrollHint": "Scroll to explore"
+    },
+    "trust": {
+      "eyebrow": "Why it matters",
+      "title": "A qualified, regulated professional you can trust.",
+      "body": "In the UK, anyone can call themselves a 'nutritionist' — the title isn't protected. 'Dietitian' is. It's a legally protected title regulated by the Health and Care Professions Council (HCPC), requiring a recognised degree and ongoing professional standards.",
+      "items": [
+        {
+          "title": "HCPC Registered",
+          "description": "Registered with the Health and Care Professions Council — the legally protected standard for UK dietitians."
+        },
+        {
+          "title": "BDA Full Member",
+          "description": "Full member of the British Dietetic Association, the professional body for dietitians in the United Kingdom."
+        },
+        {
+          "title": "NHS Experience",
+          "description": "Years of clinical practice within the NHS across community and hospital settings."
+        },
+        {
+          "title": "Evidence-Led",
+          "description": "Every recommendation grounded in peer-reviewed research and clinical guidelines — never in trends."
+        }
+      ]
+    },
+    "services": {
+      "eyebrow": "How I can help",
+      "title": "Three areas where the right nutrition changes everything.",
+      "items": [
+        {
+          "slug": "fertility",
+          "tag": "Signature",
+          "title": "Fertility & Preconception",
+          "description": "Nutrition support for couples trying to conceive, IVF preparation, and the sensitive road through fertility treatment. Clinical expertise paired with lived understanding.",
+          "cta": "Learn more"
+        },
+        {
+          "slug": "weight-loss",
+          "tag": "Most requested",
+          "title": "Weight Loss & GLP-1 Support",
+          "description": "Sustainable weight loss without the crash-diet cycle. Expert dietetic support for people on Mounjaro, Wegovy, or Ozempic — the clinical care most clinics leave out.",
+          "cta": "Learn more"
+        },
+        {
+          "slug": "womens-health",
+          "tag": "",
+          "title": "Women's Health",
+          "description": "PCOS, gestational diabetes, pregnancy, postnatal recovery, and perimenopause. Condition-specific care built around you, not a generic meal plan.",
+          "cta": "Learn more"
+        }
+      ]
+    },
+    "story": {
+      "eyebrow": "About me",
+      "title": "I understand what clients don't always say out loud.",
+      "body1": "After years in the NHS and my own journey through IVF, I've learned that good nutrition advice is never just about food. It's about meeting people where they actually are — tired, hopeful, frustrated, ready for change.",
+      "body2": "Whatever you're hoping for — a healthy pregnancy, a body that feels like your own again, a way of eating that doesn't run your life — I genuinely believe it's possible. The right support, the right evidence, and a bit of patience can take people further than they expect. That's what I'm here for.",
+      "cta": "Read my full story",
+      "signature": "— Medeinė"
+    },
+    "process": {
+      "eyebrow": "How it works",
+      "title": "A simple, considered path. No pressure, ever.",
+      "steps": [
+        {
+          "number": "01",
+          "title": "Free 15-minute call",
+          "description": "We talk about your goals and see if we're a good fit. No advice given, no pressure, no commitment."
+        },
+        {
+          "number": "02",
+          "title": "Initial assessment",
+          "description": "A 60-minute session covering your full history, goals, and daily life. You receive a written plan within 48 hours."
+        },
+        {
+          "number": "03",
+          "title": "Ongoing support",
+          "description": "Regular follow-ups, adjustments, and gentle accountability. Most clients see meaningful change within three sessions."
+        }
+      ]
+    },
+    "languages": {
+      "eyebrow": "Without translation, without compromise",
+      "title": "Consultations in the language you think in.",
+      "body": "For many people, speaking about their body, their hopes, and their fears is hard enough in their first language. Having to do it through translation makes genuinely good care nearly impossible. I work fluently in English and Lithuanian, with a basic understanding of Russian — so you can focus on what you want to say, not how to say it."
+    },
+    "cta": {
+      "eyebrow": "Let's talk",
+      "title": "Ready to start a conversation?",
+      "subtitle": "The first call is free, friendly, and entirely without pressure. I'd love to hear from you.",
+      "button": "Book your free call",
+      "secondary": "Or send a message"
+    }
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "About",
+      "title": "Hello, I'm Medeinė.",
+      "subtitle": "Registered Dietitian, wife, and — most relevantly for the people I work with — someone who has walked the road I now support others on."
+    },
+    "story": {
+      "heading": "My story",
+      "paragraphs": [
+        "I began my career as a dietitian in Lithuania, working across public hospitals. When my husband and I moved to the United Kingdom, I re-established my practice here and have spent the last several years working within the NHS — in community dietetics and across a range of clinical specialisms.",
+        "My NHS work has given me deep experience with diabetes management, weight loss and weight gain, malnutrition, tube feeding, and — most importantly — the practical realities of helping people change their eating when life is already complicated. Along the way I've learned that the clinical evidence is only half the job. The other half is listening carefully enough to build a plan someone can actually live with.",
+        "The reason I now focus much of my private work on fertility is more personal. My husband and I went through IVF ourselves. That experience taught me what it really feels like to navigate a fertility journey — the hope, the exhaustion, the contradictory advice from every direction, the desperate desire to do something, anything, that might help. I wanted to bring my clinical training to bear on that experience for other couples going through it.",
+        "I practise in English and Lithuanian, with a basic understanding of Russian. I'm a Full Member of the British Dietetic Association and registered with the Health and Care Professions Council — the legally protected standards that distinguish a qualified dietitian from the wider, unregulated world of 'nutritionists' and wellness coaches."
+      ]
+    },
+    "values": {
+      "eyebrow": "How I work",
+      "heading": "Four principles that shape every session.",
+      "items": [
+        {
+          "number": "01",
+          "title": "Evidence over trends",
+          "description": "Nutrition is full of fashionable opinions. My recommendations come from peer-reviewed research and clinical guidelines — not whatever's popular on social media this month."
+        },
+        {
+          "number": "02",
+          "title": "Small, sustainable changes",
+          "description": "The diet you can follow for two weeks rarely matters. The change you can live with for two years changes everything. I build plans for real life, not for a photo shoot."
+        },
+        {
+          "number": "03",
+          "title": "No judgement, ever",
+          "description": "I have no interest in making anyone feel guilty about food. What you eat now is information, not a verdict. Every session is a collaboration between equals."
+        },
+        {
+          "number": "04",
+          "title": "Clear, written plans",
+          "description": "After every session you receive a written summary with practical steps, resources, and next actions. You'll never leave wondering what you're supposed to do."
+        }
+      ]
+    },
+    "credentials": {
+      "heading": "Qualifications & memberships",
+      "items": [
+        "BSc Human Nutrition and Dietetics",
+        "HCPC Registered Dietitian",
+        "Full Member — British Dietetic Association (BDA)",
+        "Several years of NHS clinical experience",
+        "Prior hospital-based practice in Lithuania"
+      ]
+    },
+    "cta": {
+      "title": "Would we be a good fit?",
+      "subtitle": "The only way to find out is a conversation. Fifteen minutes, free, no pressure.",
+      "button": "Book a free call"
+    }
+  },
+  "servicesIndex": {
+    "hero": {
+      "eyebrow": "Services",
+      "title": "Clinical nutrition support, built around you.",
+      "subtitle": "All consultations take place online — Zoom, phone, or WhatsApp video — at times that fit around real life."
+    },
+    "intro": "I work across three specialist areas. Each is built on clinical evidence, shaped by years of NHS practice, and delivered with genuine care for the person in front of me.",
+    "cta": {
+      "title": "Not sure which is right for you?",
+      "subtitle": "That's what the free 15-minute call is for. We'll talk, and I'll point you in the right direction — even if it's not me.",
+      "button": "Book a free call"
+    }
+  },
+  "fertility": {
+    "hero": {
+      "eyebrow": "Signature specialism",
+      "title": "Fertility & Preconception Nutrition",
+      "subtitle": "Evidence-based dietary support for couples trying to conceive, preparing for IVF, or navigating fertility treatment. Guidance on the best foods for fertility, egg and sperm quality, and the supplements that actually matter. Clinical expertise with lived understanding."
+    },
+    "intro": {
+      "heading": "Nutrition has a measurable role in fertility. Few people are told how.",
+      "body1": "A growing body of research connects diet to ovulation, egg and sperm quality, implantation, and outcomes through IVF. Specific nutrients matter. Specific patterns matter. Yet most people going through fertility treatment receive almost no nutritional guidance from the clinics supporting them.",
+      "body2": "I trained clinically in the NHS. I've also been through IVF myself. I know how it feels to sit across from yet another professional and wonder whether they understand what this journey actually takes. This is the work I came to nutrition to do."
+    },
+    "supports": {
+      "heading": "What I support",
+      "items": [
+        {
+          "title": "Preconception nutrition",
+          "description": "For individuals and couples in the three to twelve months before trying to conceive. Optimising egg and sperm quality, correcting deficiencies, building the nutritional foundation for a healthy pregnancy."
+        },
+        {
+          "title": "IVF preparation & support",
+          "description": "Nutrition strategies through stimulation, egg collection, transfer, and the two-week wait. Realistic plans for weeks that are already emotionally exhausting — built for energy, not restriction."
+        },
+        {
+          "title": "PCOS & fertility",
+          "description": "PCOS is the most common hormonal cause of infertility. Targeted dietary strategies for insulin resistance, ovulatory function, and weight where relevant, grounded in current clinical evidence."
+        },
+        {
+          "title": "Egg quality and nutrition",
+          "description": "The three months before trying matter. Evidence-based nutrition strategies to support egg quality — the foods, nutrients, and supplements that research genuinely supports, beyond the noise online."
+        },
+        {
+          "title": "Sperm quality and male fertility nutrition",
+          "description": "Male factor accounts for roughly half of fertility challenges and is often overlooked. A dietitian's approach to sperm quality — specific nutrients, practical lifestyle changes, and what the evidence supports for men trying to conceive."
+        },
+        {
+          "title": "Recurrent miscarriage nutrition",
+          "description": "Supportive nutrition alongside medical investigation — focused on what the evidence shows, including specific nutrients and inflammatory patterns."
+        },
+        {
+          "title": "Secondary infertility",
+          "description": "Fertility challenges after a previous pregnancy carry their own quiet grief. Tailored nutritional support that acknowledges where you've already been."
+        },
+        {
+          "title": "Evidence-based supplement guidance",
+          "description": "Folic acid, vitamin D, omega-3, CoQ10, inositol, and others — what the evidence actually supports, what the right dose looks like for you, and what to skip. No product sales, no affiliate links, no conflicts of interest."
+        }
+      ]
+    },
+    "approach": {
+      "heading": "How the fertility package works",
+      "steps": [
+        {
+          "title": "Thorough assessment",
+          "description": "Detailed review of your history, any investigations so far, current diet and lifestyle, supplements, and goals. A written plan within 48 hours."
+        },
+        {
+          "title": "Personalised plan",
+          "description": "Built around your cycle, your treatment timeline (if applicable), your preferences, and your life. Not a generic fertility diet printed from the internet."
+        },
+        {
+          "title": "Ongoing support",
+          "description": "Fortnightly or monthly follow-ups, timed around your cycle or treatment. Messaging support between sessions for the inevitable questions."
+        }
+      ]
+    },
+    "personal": {
+      "heading": "A personal note",
+      "body": "Fertility work is the work that brings me closest to why I retrained for this career. If you'd told me during our own IVF journey that my husband and I would eventually help other couples through the same road, I'm not sure I'd have believed you. But here I am, and here you are. If you'd like to talk, I'd be grateful for the conversation."
+    },
+    "cta": {
+      "title": "Let's talk about where you are.",
+      "subtitle": "Free, 15 minutes, no pressure. The call is for you to decide if I'm the right support for this chapter.",
+      "button": "Book a free fertility call"
+    }
+  },
+  "weightLoss": {
+    "hero": {
+      "eyebrow": "Most requested",
+      "title": "Weight Loss & GLP-1 Medication Support",
+      "subtitle": "Sustainable weight loss without crash diets or punishment. Specialist dietetic support for people using Mounjaro, Wegovy, or Ozempic — including the muscle preservation and maintenance strategies most clinics don't provide."
+    },
+    "glp1": {
+      "eyebrow": "GLP-1 support",
+      "heading": "On Mounjaro, Wegovy, or Ozempic? This is where most clinics stop.",
+      "body1": "GLP-1 medications are remarkable tools. They work. But weight loss is only half the problem — keeping it off, preserving muscle, and managing the nutritional reality of eating less are the parts most prescribing clinics don't address.",
+      "body2": "I support clients on GLP-1 medications with the clinical nutrition piece that determines whether the results last. Protein sufficiency. Micronutrient intake. Muscle preservation through resistance training guidance. A genuine eating pattern you can still follow when the prescription ends."
+    },
+    "glp1Support": {
+      "heading": "What GLP-1 support looks like with me",
+      "items": [
+        {
+          "title": "Protein sufficiency",
+          "description": "Muscle loss is the biggest clinical concern with GLP-1s. Specific, achievable daily protein targets calibrated to your weight and tolerance."
+        },
+        {
+          "title": "Micronutrient strategy",
+          "description": "Eating dramatically less food means eating dramatically less of the nutrients your body still needs. Targeted food-first guidance, with supplement advice where warranted."
+        },
+        {
+          "title": "Side effect management",
+          "description": "Nausea, constipation, food aversions, and early satiety — all common, all manageable with the right dietary structure. You don't have to just tolerate it."
+        },
+        {
+          "title": "Maintenance planning",
+          "description": "The hardest question on GLP-1s is what happens when you stop. We work on the eating pattern, habits, and relationship with food that make the results durable."
+        }
+      ]
+    },
+    "beyond": {
+      "eyebrow": "Beyond GLP-1",
+      "heading": "Sustainable weight loss without medication",
+      "body": "Not everyone wants or needs medication. For those looking to change their weight through nutrition and lifestyle alone, I offer evidence-based support grounded in my NHS weight management experience — focused on habits that actually last rather than restrictive plans that don't."
+    },
+    "covers": {
+      "heading": "What's included",
+      "items": [
+        "Clinical weight loss nutrition — adult weight management, the part the GP can't always give you time for",
+        "GLP-1 medication support (Mounjaro, Wegovy, Ozempic) — protein, muscle, micronutrients, and maintenance",
+        "Emotional eating and relationship with food — with referral onwards if therapeutic support is more appropriate",
+        "Post-bariatric surgery nutrition — long-term support after gastric band, sleeve, or bypass",
+        "Weight loss for fertility — specific evidence-based strategies where weight is relevant to conception"
+      ]
+    },
+    "cta": {
+      "title": "Ready for a sustainable approach?",
+      "subtitle": "Let's talk about where you are, what's worked, what hasn't, and what a realistic plan looks like for you.",
+      "button": "Book a free weight loss call"
+    }
+  },
+  "womensHealth": {
+    "hero": {
+      "eyebrow": "Women's health",
+      "title": "Women's Health Nutrition",
+      "subtitle": "Condition-specific nutrition for PCOS, gestational diabetes, pregnancy, postnatal recovery, and perimenopause. Practical plans that work alongside your medical care, not around it."
+    },
+    "intro": {
+      "heading": "Nutrition through every chapter.",
+      "body": "Women's bodies do extraordinary things across extraordinary timeframes — and the nutritional support most people receive through these transitions is patchy at best. I work with women navigating specific hormonal and metabolic changes, bringing clinical evidence and practical plans to each stage."
+    },
+    "areas": {
+      "heading": "Specialist areas",
+      "items": [
+        {
+          "title": "PCOS Dietitian Support",
+          "description": "Specialist PCOS dietitian support for insulin resistance, ovulation, weight management where relevant, and the fertility implications of PCOS. The evidence base is much stronger than most people are told — specific, effective, and genuinely different from 'healthy eating in general'."
+        },
+        {
+          "title": "Gestational Diabetes",
+          "description": "Practical nutrition support for gestational diabetes, designed alongside your maternity care team. Clear carbohydrate strategies, realistic meal planning, and support for the short, intense weeks this diagnosis involves."
+        },
+        {
+          "title": "Pregnancy Nutrition",
+          "description": "Evidence-based nutrition through each trimester, including for higher-risk pregnancies, hyperemesis gravidarum, iron and other deficiencies, and gestational weight gain guidance."
+        },
+        {
+          "title": "Postnatal & Breastfeeding",
+          "description": "Recovery after birth, energy, nutrient restoration, and breastfeeding nutrition. The support that tends to disappear the moment the baby is born."
+        },
+        {
+          "title": "Perimenopause & Menopause",
+          "description": "Nutrition strategies for the metabolic, bone health, and body composition changes of the menopause transition. Evidence-based, realistic, and not built on supplements you don't need."
+        }
+      ]
+    },
+    "cta": {
+      "title": "Whatever stage you're in, you don't have to navigate it alone.",
+      "subtitle": "A free 15-minute call to talk through what's happening and whether working together makes sense.",
+      "button": "Book a free call"
+    }
+  },
+  "pricing": {
+    "hero": {
+      "eyebrow": "Pricing",
+      "title": "Clear, fair pricing. No surprises.",
+      "subtitle": "Every consultation includes pre-session preparation, the session itself, and a written summary sent within 48 hours."
+    },
+    "sessionsHeading": "Individual sessions",
+    "sessions": [
+      {
+        "id": "discovery",
+        "name": "Discovery Call",
+        "price": "Free",
+        "duration": "15 minutes",
+        "description": "A relaxed introductory call to talk about your goals and see if we're a good fit. No advice given, no commitment — this is just a conversation.",
+        "features": [
+          "Video or phone call",
+          "No preparation needed",
+          "Straightforward recommendation, even if it's not me"
+        ],
+        "cta": "Book free call",
+        "featured": true
+      },
+      {
+        "id": "initial",
+        "name": "Initial Assessment",
+        "price": "£90",
+        "duration": "60 minutes",
+        "description": "Your first full consultation. A thorough review of your history, goals, and current situation, followed by a written plan delivered within 48 hours.",
+        "features": [
+          "Detailed pre-session questionnaire",
+          "Full 60-minute video consultation",
+          "Personalised written plan within 48 hours",
+          "Resource pack and recommended next steps"
+        ],
+        "cta": "Book initial assessment"
+      },
+      {
+        "id": "followup30",
+        "name": "Follow-up",
+        "price": "£45",
+        "duration": "30 minutes",
+        "description": "A focused check-in between fuller sessions. Ideal for accountability, quick adjustments, and staying on track.",
+        "features": [
+          "30-minute video consultation",
+          "Plan updates where needed",
+          "Written summary within 48 hours"
+        ],
+        "cta": "Book follow-up"
+      }
+    ],
+    "packagesHeading": "Packages — better value, better outcomes",
+    "packagesSubtitle": "Real change takes more than one session. Packages are priced below the session-by-session equivalent and include messaging support between sessions.",
+    "packages": [
+      {
+        "id": "starter",
+        "name": "Starter",
+        "price": "£165",
+        "duration": "6 weeks",
+        "description": "The right starting point for most clients. Enough time to lay the foundation, make the first real changes, and see whether we're a good longer-term fit.",
+        "features": [
+          "Initial assessment (60 min)",
+          "Two follow-up sessions (30 min each)",
+          "Written plans and resources",
+          "Email support between sessions",
+          "Save £10 vs. booking separately"
+        ],
+        "cta": "Start the Starter package"
+      },
+      {
+        "id": "transform",
+        "name": "Transform",
+        "price": "£320",
+        "duration": "3 months",
+        "description": "For clients committed to meaningful change. Regular support across three months, with messaging support so you're never stuck between sessions.",
+        "features": [
+          "Initial assessment (60 min)",
+          "Five follow-up sessions (30 min each)",
+          "WhatsApp messaging support (2 weeks)",
+          "Full written plans and resource library",
+          "Flexible scheduling to suit your life"
+        ],
+        "cta": "Start Transform",
+        "featured": true
+      },
+      {
+        "id": "fertility",
+        "name": "Fertility Journey",
+        "price": "£425",
+        "duration": "12 weeks",
+        "description": "A dedicated fertility and preconception package, designed around your cycle or treatment timeline. Comprehensive, gently paced, never rushed.",
+        "features": [
+          "Extended initial assessment (75 min)",
+          "Six follow-ups (45 min each)",
+          "Cycle- or treatment-aligned scheduling",
+          "WhatsApp messaging support (full programme)",
+          "Partner included at no extra cost",
+          "Fertility-specific resource library"
+        ],
+        "cta": "Start Fertility Journey"
+      }
+    ],
+    "faq": {
+      "heading": "Pricing questions",
+      "items": [
+        {
+          "question": "Can I claim through private health insurance?",
+          "answer": "Many UK private health insurers cover consultations with HCPC-registered dietitians (including Bupa, Vitality, AXA, and WPA) though cover varies by policy. Please check with your insurer before booking, as I bill you directly and you claim back — I'm not currently registered as a direct-pay provider."
+        },
+        {
+          "question": "What if I need to cancel?",
+          "answer": "Cancellations with more than 24 hours' notice receive a full refund or free rebook. Inside 24 hours, sessions are non-refundable but can be rescheduled once at no cost."
+        },
+        {
+          "question": "Do you offer sliding-scale or reduced-fee spots?",
+          "answer": "I keep a small number of reduced-fee slots available for people with genuine financial need, particularly in fertility and women's health. Please get in touch and we'll have an honest conversation — there's no form to fill in and no awkwardness."
+        },
+        {
+          "question": "How do I pay?",
+          "answer": "Payment is taken at the point of booking through Stripe — debit card, credit card, Apple Pay, or Google Pay. Package payments can be split into two instalments on request."
+        },
+        {
+          "question": "Do you see clients outside the UK?",
+          "answer": "My HCPC registration and professional indemnity insurance are UK-based, so my primary practice is with UK residents. International enquiries are considered case by case — please get in touch and I'll be honest about whether I'm the right fit."
+        }
+      ]
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Get in touch",
+      "title": "Let's talk.",
+      "subtitle": "The easiest first step is a free 15-minute call — pick a time below. For longer questions, the form is there, and I'll reply within two working days."
+    },
+    "booking": {
+      "heading": "Book a free call",
+      "subtitle": "Straight to my calendar. Choose a time that works, and you'll receive a confirmation email with the video link.",
+      "cta": "See available times"
+    },
+    "form": {
+      "heading": "Send a message",
+      "subtitle": "For anything that isn't right for a booking yet. Replies within two working days.",
+      "name": "Your name",
+      "namePlaceholder": "Jane Smith",
+      "email": "Email address",
+      "emailPlaceholder": "jane@example.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "What's this about?",
+      "message": "Message",
+      "messagePlaceholder": "Tell me a little about what you're looking for...",
+      "consent": "I understand this form sends an email to the practice and my information will be handled according to the privacy policy.",
+      "submit": "Send message",
+      "submitting": "Sending...",
+      "success": "Thank you — your message is on its way. I'll be in touch within two working days.",
+      "error": "Something went wrong. Please try again, or email me directly.",
+      "required": "Required",
+      "invalidEmail": "Please enter a valid email address"
+    },
+    "details": {
+      "heading": "Other ways to reach me",
+      "emailLabel": "Email",
+      "hoursLabel": "Response time",
+      "hoursValue": "Within two working days",
+      "locationLabel": "Practice",
+      "locationValue": "Online consultations across the United Kingdom",
+      "languagesLabel": "Languages",
+      "languagesValue": "English, Lithuanian (Russian — basic understanding)"
+    }
+  },
+  "blog": {
+    "hero": {
+      "eyebrow": "Journal",
+      "title": "Thoughts, guides, and evidence-based writing.",
+      "subtitle": "Long-form articles on fertility nutrition, weight management, GLP-1 medications, and women's health — without the internet's usual nonsense."
+    },
+    "filters": {
+      "all": "All articles",
+      "fertility": "Fertility",
+      "weightLoss": "Weight Loss",
+      "glp1": "GLP-1",
+      "womensHealth": "Women's Health",
+      "nutrition": "Nutrition",
+      "recipes": "Recipes"
+    },
+    "empty": {
+      "title": "Articles coming soon.",
+      "body": "I'm working on a library of genuinely useful, evidence-based articles. The first pieces will appear here shortly. If there's a topic you'd like to see covered, do let me know."
+    },
+    "readMore": "Read more",
+    "readingTime": "{minutes} min read",
+    "category": "Category",
+    "published": "Published",
+    "backToBlog": "Back to journal"
+  },
+  "legal": {
+    "languageNotice": "Legal pages are published in English. A Lithuanian version is available on request — please contact us.",
+    "privacy": {
+      "title": "Privacy Policy",
+      "lastUpdated": "Last updated"
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "lastUpdated": "Last updated"
+    }
+  },
+  "footer": {
+    "tagline": "Evidence-based nutrition for fertility, women's health, and sustainable weight loss.",
+    "navHeading": "Navigate",
+    "servicesHeading": "Services",
+    "legalHeading": "Legal",
+    "contactHeading": "Contact",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookies",
+    "followMe": "Follow",
+    "instagram": "Instagram",
+    "facebook": "Facebook",
+    "linkedin": "LinkedIn",
+    "credits": "Built with care in the United Kingdom.",
+    "disclaimer": "The content of this website is for general educational purposes and does not replace personalised clinical advice for your specific situation. For tailored dietary support, please book a consultation or speak with your GP about any underlying medical concerns."
+  },
+  "notFound": {
+    "title": "Page not found.",
+    "subtitle": "The page you're looking for doesn't exist, or has moved.",
+    "cta": "Back to home"
+  },
+  "common": {
+    "loading": "Loading...",
+    "learnMore": "Learn more",
+    "bookCall": "Book a free call",
+    "getInTouch": "Get in touch",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "foodChecker": {
+    "meta": {
+      "title": "Pregnancy Food Checker — Is This Food Safe in Pregnancy?",
+      "description": "A dietitian-authored, evidence-based guide to which foods are safe, limited, or avoided in pregnancy. Search over 30 common foods with clear answers based on NHS guidance."
+    },
+    "hero": {
+      "eyebrow": "Free tool",
+      "title1": "Is this food",
+      "title2": "safe in pregnancy?",
+      "subtitle": "A calm, evidence-based guide from a UK registered dietitian. Search for a food below to get a clear answer based on current NHS guidance.",
+      "searchPlaceholder": "Search a food — e.g. sushi, tuna, soft cheese...",
+      "resultsCount": "{count, plural, =0 {No foods found} =1 {1 food found} other {# foods found}}"
+    },
+    "verdicts": {
+      "safe": "Safe",
+      "limited": "With limits",
+      "avoid": "Avoid",
+      "safeLong": "Generally safe",
+      "limitedLong": "Safe with limits",
+      "avoidLong": "Best avoided"
+    },
+    "filters": {
+      "all": "All foods",
+      "safeOnly": "Safe",
+      "limitedOnly": "Limited",
+      "avoidOnly": "Avoid"
+    },
+    "categoryHeading": "Browse by category",
+    "noResults": {
+      "title": "No match found",
+      "subtitle": "Try a different search term, or browse by category below. If you can't find what you're looking for, send a message and we'll add it."
+    },
+    "disclaimer": "This is general guidance based on NHS advice as of April 2026. It is not medical advice. For advice on your specific pregnancy, please speak to your midwife or GP.",
+    "foodPage": {
+      "whatTheEvidence": "What the evidence says",
+      "whyItMatters": "Why this matters",
+      "source": "Source",
+      "lastReviewed": "Last reviewed",
+      "backToChecker": "Back to all foods",
+      "relatedFoods": "Related foods"
+    },
+    "cta": {
+      "eyebrow": "Personalised support",
+      "title": "Planning a pregnancy or trying to conceive?",
+      "subtitle": "General guidance is a starting point. If you'd like nutrition support built around your own situation, I'd be glad to help.",
+      "button": "Book a free 15-min call",
+      "learnMore": "See fertility services"
+    },
+    "authoredBy": {
+      "label": "Reviewed by",
+      "name": "Medeinė Deginaitė",
+      "credentials": "Registered Dietitian, HCPC · BDA"
+    }
+  }
+}

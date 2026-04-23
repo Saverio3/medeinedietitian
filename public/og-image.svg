@@ -1,0 +1,37 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FBF8F3"/>
+      <stop offset="100%" stop-color="#F5EFE6"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7A9B76"/>
+      <stop offset="100%" stop-color="#4A6945"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Organic shape -->
+  <ellipse cx="1050" cy="120" rx="400" ry="280" fill="#7A9B76" opacity="0.1"/>
+  <ellipse cx="150" cy="550" rx="280" ry="200" fill="#C97B63" opacity="0.12"/>
+
+  <!-- Logo -->
+  <g transform="translate(80, 80)">
+    <circle cx="40" cy="40" r="38" stroke="#4A6945" stroke-width="1.6" fill="#FBF8F3"/>
+    <path d="M 26 54 L 26 28 C 26 27.5, 27 26, 28 26 C 29 26, 29.5 26.5, 30 27.5 L 39 48 L 48 27.5 C 48.5 26.5, 49 26, 50 26 C 51 26, 52 27.5, 52 28 L 52 54" stroke="#2C2A28" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  </g>
+  <text x="180" y="120" font-family="Georgia, serif" font-size="22" fill="#4A6945" letter-spacing="2">REGISTERED DIETITIAN · HCPC · BDA</text>
+
+  <!-- Headline -->
+  <text x="80" y="300" font-family="Georgia, serif" font-size="76" fill="#2C2A28" font-style="normal">Evidence-based nutrition</text>
+  <text x="80" y="385" font-family="Georgia, serif" font-size="76" fill="#4A6945" font-style="italic">for the moments</text>
+  <text x="80" y="470" font-family="Georgia, serif" font-size="76" fill="#2C2A28">that matter most.</text>
+
+  <!-- Name -->
+  <line x1="80" y1="540" x2="140" y2="540" stroke="#C97B63" stroke-width="2"/>
+  <text x="80" y="580" font-family="Georgia, serif" font-size="32" fill="#2C2A28">Medeinė Deginaitė</text>
+
+  <!-- Tags -->
+  <text x="1120" y="580" font-family="Georgia, serif" font-size="22" fill="#4A6945" text-anchor="end">Fertility · Women's Health · Weight Loss</text>
+</svg>
