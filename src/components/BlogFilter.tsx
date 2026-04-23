@@ -73,7 +73,6 @@ function PostCard({
 }) {
   return (
     <Link
-      // @ts-expect-error typed routes
       href={`/blog/${post.slug}`}
       className="group flex flex-col overflow-hidden rounded-3xl border border-charcoal-700/8 bg-cream-100 transition-all duration-500 hover:-translate-y-1 hover:shadow-2xl hover:shadow-charcoal-700/10"
     >

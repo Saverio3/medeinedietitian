@@ -16,7 +16,6 @@ export default function ServiceCard({ slug, tag, title, description, cta, index 
 
   return (
     <Link
-      // @ts-expect-error typed routes
       href={href}
       className="group relative flex flex-col overflow-hidden rounded-3xl border border-charcoal-700/8 bg-cream-100 p-7 transition-all duration-500 hover:-translate-y-1 hover:border-charcoal-700/15 hover:shadow-2xl hover:shadow-charcoal-700/10 md:p-8"
     >

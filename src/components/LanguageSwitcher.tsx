@@ -25,7 +25,6 @@ export default function LanguageSwitcher({ currentLocale }: { currentLocale: Loc
 
   const switchTo = (locale: Locale) => {
     setOpen(false);
-    // @ts-expect-error — params typing on dynamic routes is wide
     router.replace({ pathname, params }, { locale });
   };
 

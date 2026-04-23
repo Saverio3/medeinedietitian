@@ -267,7 +267,6 @@ function FoodCard({ food, isLt }: { food: PregnancyFood; isLt: boolean }) {
 
   return (
     <Link
-      // @ts-expect-error typed routes
       href={`/tools/pregnancy-food-checker/${food.slug}`}
       className={`group relative flex flex-col overflow-hidden rounded-3xl border ${config.borderClass} bg-cream-100 p-6 transition-all duration-500 hover:-translate-y-1 hover:shadow-xl hover:shadow-charcoal-700/10 ${config.hoverBorder}`}
     >

@@ -241,7 +241,6 @@ export default async function FoodDetailPage({ params }: Props) {
                   return (
                     <Link
                       key={r.slug}
-                      // @ts-expect-error typed routes
                       href={`/tools/pregnancy-food-checker/${r.slug}`}
                       className="group flex flex-col rounded-2xl border border-charcoal-700/10 bg-cream-100 p-5 transition-all hover:-translate-y-0.5 hover:border-charcoal-700/20 hover:shadow-lg"
                     >

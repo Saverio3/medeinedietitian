@@ -156,7 +156,6 @@ function FooterLink({
 }) {
   return (
     <Link
-      // @ts-expect-error href type is tight due to typed routes
       href={href}
       className="text-sm text-charcoal-500 transition-colors hover:text-sage-600"
     >
