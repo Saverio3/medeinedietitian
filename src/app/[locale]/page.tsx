@@ -3,7 +3,7 @@
 import { setRequestLocale, getTranslations } from 'next-intl/server';
 import { Link } from '@/i18n/navigation';
 import Image from 'next/image';
-import { ArrowRight, ArrowDown, Sparkles, Leaf, Heart } from 'lucide-react';
+import { ArrowRight, ArrowDown, Sparkles, Leaf, Heart, Apple } from 'lucide-react';
 import type { Locale } from '@/i18n/config';
 import HeroOrnament from '@/components/HeroOrnament';
 import SectionEyebrow from '@/components/SectionEyebrow';
@@ -334,6 +334,103 @@ export default async function HomePage({ params }: Props) {
             <div className="flex items-center gap-2">
               <span className="h-2 w-2 rounded-full bg-sage-500" />
               <span className="font-serif text-sm">Lietuvių</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+            {/* ────────────── FREE TOOL CALLOUT ────────────── */}
+      <section className="relative overflow-hidden border-y border-charcoal-700/8 bg-cream-200 grain">
+        <div className="container-wide py-20 lg:py-28">
+          <div className="relative overflow-hidden rounded-[2.5rem] border border-charcoal-700/8 bg-cream-100 p-10 md:p-14 lg:p-16">
+            {/* Soft decorative background */}
+            <div
+              className="pointer-events-none absolute -right-20 -top-20 h-64 w-64 rounded-full bg-sage-100 opacity-60 blur-3xl"
+              aria-hidden
+            />
+            <div
+              className="pointer-events-none absolute -bottom-16 -left-16 h-48 w-48 rounded-full bg-clay-100 opacity-40 blur-3xl"
+              aria-hidden
+            />
+
+            <div className="relative grid items-center gap-10 lg:grid-cols-12 lg:gap-16">
+              {/* Left: icon + copy */}
+              <div className="lg:col-span-8">
+                <div className="inline-flex h-14 w-14 items-center justify-center rounded-2xl bg-sage-50">
+                  <Apple className="h-6 w-6 text-sage-600" strokeWidth={1.5} />
+                </div>
+
+                <div className="mt-6">
+                  <SectionEyebrow>{t('freeTool.eyebrow')}</SectionEyebrow>
+                </div>
+
+                <h2 className="display mt-5 text-balance text-3xl leading-[1.1] text-charcoal-700 md:text-4xl lg:text-5xl">
+                  {t('freeTool.title')}
+                </h2>
+
+                <p className="mt-6 max-w-xl leading-relaxed text-charcoal-500 md:text-lg">
+                  {t('freeTool.body')}
+                </p>
+
+                <div className="mt-8 flex flex-wrap items-center gap-4">
+                  <Link
+                    href="/tools/pregnancy-food-checker"
+                    className="btn btn-primary"
+                  >
+                    {t('freeTool.cta')}
+                    <ArrowRight className="h-4 w-4" />
+                  </Link>
+                  <span className="text-xs text-charcoal-400">
+                    {t('freeTool.meta')}
+                  </span>
+                </div>
+              </div>
+
+              {/* Right: decorative preview card */}
+              <div className="hidden lg:col-span-4 lg:block">
+                <div className="relative flex flex-col gap-3">
+                  {/* Sample food entries — decorative */}
+                  <div className="group flex items-center gap-3 rounded-2xl border border-charcoal-700/8 bg-cream-50 p-4 transition-all duration-500 hover:border-sage-300 hover:shadow-lg hover:shadow-charcoal-700/5">
+                    <div className="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-full bg-sage-100">
+                      <span className="h-2 w-2 rounded-full bg-sage-500" />
+                    </div>
+                    <div className="flex-1 min-w-0">
+                      <div className="font-serif text-sm leading-tight text-charcoal-700">Sushi</div>
+                      <div className="mt-0.5 text-[11px] text-sage-700">Safe with limits</div>
+                    </div>
+                  </div>
+
+                  <div className="group flex items-center gap-3 rounded-2xl border border-charcoal-700/8 bg-cream-50 p-4 transition-all duration-500 hover:border-sage-300 hover:shadow-lg hover:shadow-charcoal-700/5">
+                    <div className="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-full bg-sage-100">
+                      <span className="h-2 w-2 rounded-full bg-sage-500" />
+                    </div>
+                    <div className="flex-1 min-w-0">
+                      <div className="font-serif text-sm leading-tight text-charcoal-700">Soft cheese</div>
+                      <div className="mt-0.5 text-[11px] text-sage-700">Mostly safe</div>
+                    </div>
+                  </div>
+
+                  <div className="group flex items-center gap-3 rounded-2xl border border-charcoal-700/8 bg-cream-50 p-4 transition-all duration-500 hover:border-clay-300 hover:shadow-lg hover:shadow-charcoal-700/5">
+                    <div className="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-full bg-clay-100">
+                      <span className="h-2 w-2 rounded-full bg-clay-500" />
+                    </div>
+                    <div className="flex-1 min-w-0">
+                      <div className="font-serif text-sm leading-tight text-charcoal-700">Liquorice tea</div>
+                      <div className="mt-0.5 text-[11px] text-clay-600">Best avoided</div>
+                    </div>
+                  </div>
+
+                  <div className="group flex items-center gap-3 rounded-2xl border border-charcoal-700/8 bg-cream-50 p-4 transition-all duration-500 hover:border-sage-300 hover:shadow-lg hover:shadow-charcoal-700/5">
+                    <div className="flex h-8 w-8 flex-shrink-0 items-center justify-center rounded-full bg-sage-100">
+                      <span className="h-2 w-2 rounded-full bg-sage-500" />
+                    </div>
+                    <div className="flex-1 min-w-0">
+                      <div className="font-serif text-sm leading-tight text-charcoal-700">Folic acid</div>
+                      <div className="mt-0.5 text-[11px] text-sage-700">Essential</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
