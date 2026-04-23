@@ -117,6 +117,13 @@
         }
       ]
     },
+    "freeTool": {
+      "eyebrow": "Nemokamas įrankis",
+      "title": "Ar šis maistas saugus nėštumo metu?",
+      "body": "Įrodymais grįstas vadovas 100+ dažniausių maisto produktų nėštumo metu — nuo suši iki minkšto sūrio ir žolelių arbatų. Remiantis NHS rekomendacijomis, parengtas registruotos dietologės. Nemokama, registracijos nereikia.",
+      "cta": "Peržiūrėti maisto vadovą",
+      "meta": "Lietuvių ir anglų kalbomis"
+    },
     "languages": {
       "eyebrow": "Be vertimų, be kompromisų",
       "title": "Konsultacijos ta kalba, kuria mąstote.",
