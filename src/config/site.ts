@@ -22,7 +22,7 @@ export const siteConfig = {
     email: 'hello@medeinedietitian.co.uk',
     // Inbox that actually receives contact-form submissions (internal).
     // Change anytime — only used by the API route, never shown on the site.
-    inboxEmail: 'medeine.deginaite@gmail.com',
+    inboxEmail: 'medeine.degimaite@gmail.com',
     phone: '', // optional, e.g. '+44 7000 000000' — leave empty to hide from site
   },
 
