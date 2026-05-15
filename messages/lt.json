@@ -1,8 +1,8 @@
 {
   "meta": {
-    "siteName": "Medeinė Deginaitė",
+    "siteName": "Medeinė Degimaitė",
     "tagline": "Registruota dietologė",
-    "defaultTitle": "Medeinė Deginaitė — Registruota dietologė | Vaisingumas, moterų sveikata, svorio kontrolė",
+    "defaultTitle": "Medeinė Degimaitė — Registruota dietologė | Vaisingumas, moterų sveikata, svorio kontrolė",
     "defaultDescription": "HCPC registruota dietologė, dirbanti su vaisingumo mityba, moterų sveikata, PCOS, nėštumo diabetu ir tvariu svorio metimu, įskaitant pagalbą vartojant Mounjaro ir Wegovy. Konsultacijos internetu visoje Jungtinėje Karalystėje — lietuvių ir anglų kalbomis.",
     "keywords": "dietologė UK, dietologas Londone, vaisingumo dietologė, mityba nėštumui, PCOS mityba, nėštumo diabetas, svorio metimas dietologė, Mounjaro pagalba, Wegovy dietologė, lietuvių dietologė UK, internetinė dietologė"
   },
@@ -11,7 +11,7 @@
     "about": "Apie mane",
     "services": "Paslaugos",
     "tools": "Įrankiai",
-    "foodChecker": "Maisto nėštumui patikra",
+    "foodChecker": "Maisto gidas nėštumo metu (nemokamas)",
     "fertility": "Vaisingumas ir pasiruošimas nėštumui",
     "weightLoss": "Svorio metimas ir GLP-1 pagalba",
     "womensHealth": "Moterų sveikata",
@@ -34,7 +34,7 @@
       "subtitle": "Specializuota dietologės pagalba siekiantiems pastoti, besirūpinantiems moterų sveikata ir norintiems tvariai mesti svorį. Konsultacijos internetu visoje Jungtinėje Karalystėje — lietuvių ir anglų kalbomis.",
       "primaryCta": "Užsisakykite nemokamą 15 min. pokalbį",
       "secondaryCta": "Kaip dirbu",
-      "photoAlt": "Medeinės Deginaitės, registruotos dietologės, nuotrauka",
+      "photoAlt": "Medeinės Degimaitės, registruotos dietologės, nuotrauka",
       "photoPlaceholder": "Nuotrauka bus netrukus",
       "scrollHint": "Slinkite žemyn"
     },
@@ -116,6 +116,13 @@
           "description": "Reguliarūs susitikimai, plano koregavimai ir švelnus palaikymas. Dauguma klientų reikšmingų pokyčių pastebi jau per tris susitikimus."
         }
       ]
+    },
+    "freeTool": {
+      "eyebrow": "Nemokamas įrankis",
+      "title": "Ar šis maistas saugus nėštumo metu?",
+      "body": "Įrodymais grįstas vadovas 100+ dažniausių maisto produktų nėštumo metu — nuo suši iki minkšto sūrio ir žolelių arbatų. Remiantis NHS rekomendacijomis, parengtas registruotos dietologės. Nemokama, registracijos nereikia.",
+      "cta": "Peržiūrėti maisto vadovą",
+      "meta": "Lietuvių ir anglų kalbomis"
     },
     "languages": {
       "eyebrow": "Be vertimų, be kompromisų",
@@ -653,7 +660,7 @@
     },
     "authoredBy": {
       "label": "Peržiūrėjo",
-      "name": "Medeinė Deginaitė",
+      "name": "Medeinė Degimaitė",
       "credentials": "Registruota dietologė, HCPC · BDA"
     }
   }

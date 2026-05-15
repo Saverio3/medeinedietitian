@@ -122,7 +122,7 @@ export default async function FoodDetailPage({ params }: Props) {
         text: explanation,
         author: {
           '@type': 'Person',
-          name: 'Medeinė Deginaitė',
+          name: 'Medeinė Degimaitė',
           jobTitle: 'Registered Dietitian',
           url: siteConfig.url,
         },

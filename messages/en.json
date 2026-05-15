@@ -1,8 +1,8 @@
 {
   "meta": {
-    "siteName": "Medeinė Deginaitė",
+    "siteName": "Medeinė Degimaitė",
     "tagline": "Registered Dietitian",
-    "defaultTitle": "Medeinė Deginaitė — Registered Dietitian | Fertility, Women's Health & Weight Loss UK",
+    "defaultTitle": "Medeinė Degimaitė — Registered Dietitian | Fertility, Women's Health & Weight Loss UK",
     "defaultDescription": "HCPC-registered dietitian specialising in fertility nutrition, women's health, PCOS, gestational diabetes, and sustainable weight loss including Mounjaro and Wegovy support. Online consultations across the UK in English and Lithuanian.",
     "keywords": "fertility dietitian UK, preconception nutrition, IVF nutrition, PCOS dietitian UK, gestational diabetes dietitian, weight loss dietitian UK, Mounjaro support, Wegovy dietitian, Ozempic nutrition, Lithuanian dietitian UK, online dietitian UK, HCPC registered dietitian"
   },
@@ -11,7 +11,7 @@
     "about": "About",
     "services": "Services",
     "tools": "Tools",
-    "foodChecker": "Pregnancy Food Checker",
+    "foodChecker": "Pregnancy Food Checker (Free Tool)",
     "fertility": "Fertility & Preconception",
     "weightLoss": "Weight Loss & GLP-1 Support",
     "womensHealth": "Women's Health",
@@ -34,7 +34,7 @@
       "subtitle": "Specialist dietetic support for fertility, women's health, and sustainable weight loss. Online consultations across the UK — in English and Lithuanian.",
       "primaryCta": "Book a free 15-minute call",
       "secondaryCta": "See how I work",
-      "photoAlt": "Portrait of Medeinė Deginaitė, Registered Dietitian",
+      "photoAlt": "Portrait of Medeinė Degimaitė, Registered Dietitian",
       "photoPlaceholder": "Portrait photo coming soon",
       "scrollHint": "Scroll to explore"
     },
@@ -116,6 +116,13 @@
           "description": "Regular follow-ups, adjustments, and gentle accountability. Most clients see meaningful change within three sessions."
         }
       ]
+    },
+    "freeTool": {
+      "eyebrow": "Free tool",
+      "title": "Is this food safe in pregnancy?",
+      "body": "An evidence-based guide to 100+ common foods in pregnancy — from sushi to soft cheese to herbal teas. Based on NHS guidance, authored by a registered dietitian. Free to use, no sign-up needed.",
+      "cta": "Check the food guide",
+      "meta": "Available in English and Lithuanian"
     },
     "languages": {
       "eyebrow": "Without translation, without compromise",
@@ -653,7 +660,7 @@
     },
     "authoredBy": {
       "label": "Reviewed by",
-      "name": "Medeinė Deginaitė",
+      "name": "Medeinė Degimaitė",
       "credentials": "Registered Dietitian, HCPC · BDA"
     }
   }

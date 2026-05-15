@@ -1,4 +1,4 @@
-# Medeinė Deginaitė — Registered Dietitian
+# Medeinė Degimaitė — Registered Dietitian
 
 A production-grade, bilingual (English + Lithuanian) marketing website for a UK registered dietitian.
 
@@ -92,7 +92,7 @@ Once deployed, in the Vercel dashboard → Project Settings → Domains, add `me
    - In Resend → **Domains**, add `medeinedietitian.co.uk`
    - Add the DNS records they give you (at your domain registrar or Cloudflare)
    - Once verified, change `RESEND_FROM` in Vercel to:
-     `Medeinė Deginaitė <hello@medeinedietitian.co.uk>`
+     `Medeinė Degimaitė <hello@medeinedietitian.co.uk>`
 
 ### 4. Set up Cal.com (for bookings)
 
@@ -108,7 +108,7 @@ Once deployed, in the Vercel dashboard → Project Settings → Domains, add `me
 
 Once the domain is registered:
 
-- **If using Cloudflare** for DNS: Cloudflare offers free Email Routing. In Cloudflare → Email → Email Routing, add `hello@medeinedietitian.co.uk` → forwards to `medeine.deginaite@gmail.com`. Takes 5 minutes.
+- **If using Cloudflare** for DNS: Cloudflare offers free Email Routing. In Cloudflare → Email → Email Routing, add `hello@medeinedietitian.co.uk` → forwards to `medeine.degimaite@gmail.com`. Takes 5 minutes.
 - **If using another registrar:** most offer free email forwarding. Check their docs.
 
 Then in Gmail: Settings → Accounts → "Send mail as" → add `hello@medeinedietitian.co.uk` so you can reply from that address.
@@ -258,4 +258,4 @@ If you hit an error running `npm install` or `npm run dev`, common fixes:
 
 ## Licence
 
-Private — © Medeinė Deginaitė. All rights reserved.
+Private — © Medeinė Degimaitė. All rights reserved.

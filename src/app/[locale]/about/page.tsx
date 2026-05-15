@@ -65,7 +65,7 @@ export default async function AboutPage({ params }: Props) {
                 */}
                 <Image
                   src="/images/medeine-portrait.jpg"
-                  alt="Medeinė Deginaitė, Registered Dietitian specialising in fertility and women's health"
+                  alt="Medeinė Degimaitė, Registered Dietitian specialising in fertility and women's health"
                   fill
                   sizes="(max-width: 1024px) 90vw, 40vw"
                   className="object-cover object-top"

@@ -1,6 +1,6 @@
 {
-  "name": "Medeinė Deginaitė — Registered Dietitian",
-  "short_name": "Medeinė Deginaitė",
+  "name": "Medeinė Degimaitė — Registered Dietitian",
+  "short_name": "Medeinė Degimaitė",
   "description": "HCPC-registered dietitian specialising in fertility, women's health, and sustainable weight loss. Online across the UK in English and Lithuanian.",
   "start_url": "/",
   "display": "standalone",
@@ -9,9 +9,15 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/favicon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
       "purpose": "any"
     }
   ]

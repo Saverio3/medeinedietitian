@@ -30,7 +30,7 @@
 
   <!-- Name -->
   <line x1="80" y1="540" x2="140" y2="540" stroke="#C97B63" stroke-width="2"/>
-  <text x="80" y="580" font-family="Georgia, serif" font-size="32" fill="#2C2A28">Medeinė Deginaitė</text>
+  <text x="80" y="580" font-family="Georgia, serif" font-size="32" fill="#2C2A28">Medeinė Degimaitė</text>
 
   <!-- Tags -->
   <text x="1120" y="580" font-family="Georgia, serif" font-size="22" fill="#4A6945" text-anchor="end">Fertility · Women's Health · Weight Loss</text>

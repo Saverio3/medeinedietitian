@@ -12,7 +12,7 @@ export default function StructuredData({ locale }: { locale: Locale }) {
       'HCPC-registered dietitian specialising in fertility nutrition, women\'s health, PCOS, gestational diabetes, and sustainable weight loss including Mounjaro and Wegovy support. Online consultations across the United Kingdom.',
     url: siteConfig.url,
     image: `${siteConfig.url}/og-image.png`,
-    logo: `${siteConfig.url}/favicon.svg`,
+    logo: `${siteConfig.url}/android-chrome-512x512.png`,
     email: siteConfig.contact.email,
     priceRange: '££',
     areaServed: {

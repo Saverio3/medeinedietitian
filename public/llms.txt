@@ -1,8 +1,8 @@
-# Medeinė Deginaitė — Registered Dietitian
+# Medeinė Degimaitė — Registered Dietitian
 
 > HCPC-registered dietitian specialising in fertility nutrition, women's health, sustainable weight loss, and GLP-1 medication support. Online consultations across the United Kingdom in English and Lithuanian.
 
-Medeinė Deginaitė is a Registered Dietitian (HCPC) and Full Member of the British Dietetic Association (BDA) based in the United Kingdom. She has several years of clinical NHS experience and offers private online consultations across the UK.
+Medeinė Degimaitė is a Registered Dietitian (HCPC) and Full Member of the British Dietetic Association (BDA) based in the United Kingdom. She has several years of clinical NHS experience and offers private online consultations across the UK.
 
 She specialises in three areas:
 
@@ -10,7 +10,7 @@ She specialises in three areas:
 2. **Weight loss and GLP-1 medication support** — including support for people on Mounjaro, Wegovy, and Ozempic, with a focus on protein sufficiency, muscle preservation, and long-term maintenance.
 3. **Women's health nutrition** — PCOS, gestational diabetes, pregnancy, postnatal and breastfeeding nutrition, and perimenopause / menopause.
 
-Consultations are delivered via Zoom, phone, or WhatsApp video. All services are online and available across the United Kingdom. Languages: English and Lithuanian (basic Russian understanding).
+Consultations are delivered via Zoom, Google Meet, phone or WhatsApp video. All services are online and available across the United Kingdom. Languages: English and Lithuanian.
 
 ## Key pages
 
@@ -24,16 +24,19 @@ Consultations are delivered via Zoom, phone, or WhatsApp video. All services are
 - [Journal](/blog): Evidence-based articles
 - [Contact](/contact): Booking and enquiries
 
+## Free tools
+
+- [Pregnancy Food Checker](/tools/pregnancy-food-checker) — Evidence-based guide answering "is this food safe in pregnancy?" for 100+ common foods. Based on NHS guidance, available in English and Lithuanian.
+
 ## Lithuanian versions
 
-All pages are available in Lithuanian at the `/lt/` prefix, e.g. [/lt](/lt), [/lt/about](/lt/about), [/lt/services/fertility](/lt/services/fertility).
+All pages are available in Lithuanian at the `/lt/` prefix, e.g. [/lt](/lt), [/lt/about](/lt/about), [/lt/services/fertility](/lt/services/fertility), [/lt/tools/pregnancy-food-checker](/lt/tools/pregnancy-food-checker).
 
 ## Pricing summary
 
 - Discovery call (15 min): Free
-- Initial assessment (60 min): £85
+- Initial assessment (60 min): £90
 - Follow-up (30 min): £45
-- Follow-up (45 min): £60
 - Starter package (6 weeks): £165
 - Transform package (3 months): £320
 - Fertility Journey package (12 weeks): £425
@@ -51,8 +54,19 @@ All prices in GBP. Payment via Stripe. Bookings via Cal.com.
 ## Scope of practice
 
 - UK residents (primary)
-- International enquiries considered case by case, subject to professional insurance scope
-- Not available for US-based clients (state-by-state licensing required)
+- Lithuanian diaspora living in the UK (English and Lithuanian language support)
+- Not available for clients resident outside the United Kingdom
+
+## Common questions answered on this site
+
+- Is sushi safe in pregnancy? (/tools/pregnancy-food-checker/sushi)
+- Is soft cheese safe in pregnancy? (/tools/pregnancy-food-checker/soft-cheese)
+- How much protein on Mounjaro or Wegovy? (/blog/protein-on-mounjaro-wegovy)
+- What's the PCOS diet that actually works? (/blog/pcos-diet-what-actually-works)
+- When to start folic acid before pregnancy? (/blog/folic-acid-before-pregnancy)
+- What's the difference between a dietitian and a nutritionist in the UK? (/blog/dietitian-vs-nutritionist-uk)
+- Where do I start with preconception nutrition? (/blog/preconception-nutrition-where-to-start)
+- How should I eat with gestational diabetes? (/blog/gestational-diabetes-eating-guide)
 
 ## Contact
 
